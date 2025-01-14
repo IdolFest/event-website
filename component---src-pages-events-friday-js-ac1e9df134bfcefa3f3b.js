@@ -1,0 +1,2 @@
+(self.webpackChunkidolfest_event=self.webpackChunkidolfest_event||[]).push([[686],{91328:function(e,t,l){"use strict";l.r(t);var n=l(67294),a=l(66924),r=l(15583),c=l(86273),u=l(45954),i=l(66900),d=l(51724);t.default=function(){return n.createElement(a.Z,null,n.createElement(r.Z,{title:"Friday Schedule"}),n.createElement(u.Z,{title:"Friday Schedule"}),n.createElement(c.Z,{maxWidth:"xl"},n.createElement(i.Z,null,n.createElement(d.Z,{dayOfWeek:"friday"}))))}}}]);
+//# sourceMappingURL=component---src-pages-events-friday-js-ac1e9df134bfcefa3f3b.js.map
