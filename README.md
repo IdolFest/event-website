@@ -1,4 +1,4 @@
-# Welcome to th IdolFest Event Website!
+# Welcome to the IdolFest Event Website!
 
 This is the repo for [DOMAIN GOES HERE]. It runs off of Gatsby with a Material UI theme and is currently deployed on GitHub Pages.
 
