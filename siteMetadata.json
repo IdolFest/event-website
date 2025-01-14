@@ -1,18 +1,18 @@
 {
-    "title": "NW IdolFest",
-    "shortDates": "Oct 11-13, 2024",
-    "longDates": "October 11-13, 2024",
-    "location": "Seattle, WA",
-    "siteUrl": "https://nwidolfest.com",
-    "description": "Get ready to experience idol like you never have before! Coming to the Seattle Airport DoubleTree on Oct 11-13, 2024.",
-    "author": "The NW IdolFest Team",
+    "title": "IdolFest",
+    "shortDates": "TBD",
+    "longDates": "TBD",
+    "location": "Somewhere, CA",
+    "siteUrl": "https://ng.nwidolfest.com",
+    "description": "Get ready to experience idol like you never have before! Coming to [venue] on [dates].",
+    "author": "The IdolFest Team",
     "sisterBannerEvent": "none",
     "sisterBannerText": "Panda!",
     "social": {
-      "twitter": "@NWIdolFest",
-      "facebook": "NWIdolFest",
-      "instagram": "NWIdolFest",
+      "twitter": "@TBD",
+      "facebook": "TBD",
+      "instagram": "TBD",
       "discord": "h5yJbXgTgE",
-      "email": "contact@nwidolfest.com"
+      "email": "contact@TBD"
     }
   }

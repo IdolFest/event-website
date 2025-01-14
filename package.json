@@ -1,9 +1,9 @@
 {
-  "name": "nw-idolfest-website",
+  "name": "idolfest-event",
   "private": true,
-  "description": "The NW IdolFest website.",
+  "description": "The IdolFest Event website.",
   "version": "0.1.0",
-  "author": "Shir Goldberg",
+  "author": "idolfest.or",
   "dependencies": {
     "@date-io/moment": "^1.3.13",
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
@@ -70,6 +70,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nwidolfest/nw-idolfest-website"
+    "url": "https://github.com/nwidolfest/event-website"
   }
 }

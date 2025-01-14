@@ -11,11 +11,11 @@ import { useStaticQuery, graphql } from 'gatsby'
 
 const GuestsPage = () => {
 
-    const year = 2024
+    const year = 2025
     const data = useStaticQuery(
         graphql`
         {
-            allMdx (filter: {slug: {regex: "/^guests\/2024\//"}}) {
+            allMdx (filter: {slug: {regex: "/^guests\/2025\//"}}) {
               nodes {
                 id
                 frontmatter {

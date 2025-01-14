@@ -119,7 +119,7 @@ const HotelPage = () => {
         <Button variant="contained" className="cta" href='https://book.passkey.com/go/NWIF24'>
           Book online
         </Button>
-        <div>If you prefer to book by phone, you can call the hotel toll-free at 1-800-222-8733 and reference the group code "IDF" or group name "NW IdolFest".</div>
+        <div>If you prefer to book by phone, you can call the hotel toll-free at [CHANGE ME] and [CHANGE ME INSTRUCTIONS].</div>
       </CenteredBox>
               }
       <CenteredBox>

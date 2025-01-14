@@ -77,7 +77,7 @@ const { site, allMdx } = useStaticQuery(
                         location
                     }
                 }
-                allMdx (filter: {slug: {regex: "/^guests\/2024\/"}}) {
+                allMdx (filter: {slug: {regex: "/^guests\/2025\/"}}) {
                   nodes {
                     id
                     frontmatter {

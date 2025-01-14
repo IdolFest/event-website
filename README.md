@@ -1,6 +1,6 @@
-# Welcome to the NW IdolFest Website!
+# Welcome to th IdolFest Event Website!
 
-This is the repo for https://nwidolfest.com/. It runs off of Gatsby with a Material UI theme and is currently deployed on GitHub Pages.
+This is the repo for [DOMAIN GOES HERE]. It runs off of Gatsby with a Material UI theme and is currently deployed on GitHub Pages.
 
 ## Set Up
 
@@ -14,7 +14,7 @@ This is the repo for https://nwidolfest.com/. It runs off of Gatsby with a Mater
 The site uses gh-pages to deploy. Assuming you have collaborator access to this repo, there are two methods of deployment:
 
 1. Locally, run `npm run deploy`.
-2. From GitHub, go to "Actions" and manually invoke Gatsby Publish.
+2. Push your changes, and they will automatically be deployed by github actions (Prefer this option!) 
 
 ## Running the CMS (netlify-cms) locally
 
