@@ -15,9 +15,8 @@ Though our beginnings may be humble, our love for idols knows no bounds. With yo
 
 **Thomas Houghton** (*any, he/him default*) is a professional musician with 17 years of experience and has years of project management and event organizing experience. While doing office coordination by day, he performs in his local music scene, produces music, and organizes amazing events for people to enjoy for audiences in the thousands to tens of thousands. He has also worked as interim HR department head for the IdolFest Foundation as well as the department head for the Events team. He's super excited to support a wonderful idol experience in sunny Los Angeles, California! In his spare time, Thomas enjoys playing visual novels and watching his friends play video games.
 
-
 ## The Staff
 
-Our all-volunteer staff is made up of veteran convention runners from all backgrounds and professions. We operate under a policy of transparency and long-term planning to bring the best possible experience to the Pacific Northwest.
+Our all-volunteer staff is made up of veteran convention runners from all backgrounds and professions. We operate under a policy of transparency and long-term planning to bring the best possible experience to the United States.
 
 Want to join up? Learn about [volunteering](/volunteer)!
