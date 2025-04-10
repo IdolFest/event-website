@@ -13,7 +13,8 @@ Though our beginnings may be humble, our love for idols knows no bounds. With yo
 
 ## The Co-Chair
 
-**Shir Goldberg** (*they/them*) is a long-time con organizer who's passionate about building events with a heart. Their goal at Northwest IdolFest is to support you in creating amazing things. Shir combines a professional background in tech consulting with years of convention experience, and has run multiple events that drew tens of thousands of attendees. In their spare time, Shir enjoys petting dogs.
+**Thomas Houghton** (*any, he/him default*) is a professional musician with 17 years of experience and has years of project management and event organizing experience. While doing office coordination by day, he performs in his local music scene, produces music, and organizes amazing events for people to enjoy for audiences in the thousands to tens of thousands. He has also worked as interim HR department head for the IdolFest Foundation as well as the department head for the Events team. He's super excited to support a wonderful idol experience in sunny Los Angeles, California! In his spare time, Thomas enjoys playing visual novels and watching his friends play video games.
+
 
 ## The Staff
 
