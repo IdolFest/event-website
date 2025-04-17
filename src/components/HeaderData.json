@@ -71,7 +71,7 @@
         }
       ],
       "external": false,
-      "disabled": false
+      "disabled": true
     },
     {
       "label": "Vendors",
@@ -104,7 +104,8 @@
         },
         {
           "label": "Partners",
-          "href": "/partners"
+          "href": "/partners",
+          "disabled": true
         },
         {
           "label": "Discord",
