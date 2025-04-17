@@ -75,7 +75,8 @@
     },
     {
       "label": "Vendors",
-      "href": "/vendors"
+      "href": "/vendors",
+      "disabled": true
     },
     {
       "label": "About",
