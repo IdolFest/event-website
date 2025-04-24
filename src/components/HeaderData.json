@@ -6,7 +6,8 @@
     },
     {
       "label": "Hotel",
-      "href": "/hotel"
+      "href": "/hotel",
+      "disabled": true
     },
     {
       "label": "Guests",

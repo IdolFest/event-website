@@ -1,18 +1,19 @@
 {
     "title": "US IdolFes",
-    "shortDates": "TBD",
-    "longDates": "TBD",
-    "location": "Somewhere, CA",
+    "shortDates": "Oct 31 - November 2",
+    "longDates": "October 31 - November",
+    "location": "Redondo Beach, CA",
     "siteUrl": "https://idolfes.us",
     "description": "Get ready to experience idol like you never have before! Coming to [venue] on [dates].",
     "author": "The US IdolFes Team",
     "sisterBannerEvent": "none",
     "sisterBannerText": "Panda!",
     "social": {
-      "twitter": "@TBD",
-      "facebook": "TBD",
-      "instagram": "TBD",
+      "twitter": "@NWIdolFest",
+      "facebook": "NO MORE FACEBOOKS",
+      "instagram": "nwidolfest",
       "discord": "h5yJbXgTgE",
-      "email": "contact@idolfes.us"
+      "email": "contact@idolfes.us",
+      "bluesky": "idolfest.bsky.social"
     }
   }

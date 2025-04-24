@@ -48,11 +48,11 @@ export default function ContactInfo() {
                 site {
                     siteMetadata {
                         social {
-                            facebook
                             twitter
                             instagram
                             discord
                             email
+                            bluesky
                         }
                     }
                 }            
@@ -66,8 +66,8 @@ export default function ContactInfo() {
         <ul>
             {wrapContactSocial(createSocialIcon(`mailto:${socialSites.email}`, 'envelope', 'Email', 'fas'))}
             {wrapContactSocial(createSocialIcon(`https://discord.gg/${socialSites.discord}`, 'discord', 'Discord'))}
-            {wrapContactSocial(createSocialIcon(`https://facebook.com/${socialSites.facebook}`, 'facebook', 'Facebook'))}
             {wrapContactSocial(createSocialIcon(`https://twitter.com/${socialSites.twitter}`, 'twitter', 'Twitter'))}
+            {wrapContactSocial(createSocialIcon(`https://bsky.app/profile/${socialSites.bluesky}`, 'bluesky', 'Bluesky'))}
             {wrapContactSocial(createSocialIcon(`https://instagram.com/${socialSites.instagram}`, 'instagram', 'Instagram'))}
         </ul>
         </div>
