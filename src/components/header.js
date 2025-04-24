@@ -277,7 +277,7 @@ const location = site.siteMetadata.location
           alt=''
           width={300}
           transformOptions={{fit: "contain"}}
-          src='../images/logo/Logo Pink.svg'
+          src='../images/logo/logo_usif.svg'
           placeholder='none'
           backgroundColor='transparent'
           />
