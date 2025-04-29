@@ -72,7 +72,7 @@ const HotelPage = () => {
         alt=''
       />
       <p>
-        Northwest IdolFest will be held on {dates}, at the Sonesta Redondo Beach &amp; Marina. Details on how to access the venue are available below.
+        US IdolFes will be held on {dates}, at the Sonesta Redondo Beach &amp; Marina. Details on how to access the venue are available below.
           {/* Use when hotel booking is closed  */}
           {/*
            <br /><br />
@@ -119,7 +119,7 @@ const HotelPage = () => {
         <Button disabled variant="contained" className="cta" href='https://google.com/search?q=cute+cuddly+penguins'>
           Book online
         </Button>
-        <div>If you prefer to book by phone, you can call the hotel toll-free at 310-318-8888.</div> {/* and reference the group code "IDF" or group name "NW IdolFest" */}
+        <div>If you prefer to book by phone, you can call the hotel toll-free at 310-318-8888 and reference the group code "[TBD]".</div>
       </CenteredBox>
               }
       <CenteredBox>

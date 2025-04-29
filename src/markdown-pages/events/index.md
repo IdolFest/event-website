@@ -3,7 +3,7 @@ slug: /events
 title: Events
 template: page
 ---
-Northwest IdolFest is excited to provide a venue for your amazing panels and performances this year!
+US IdolFes is excited to provide a venue for your amazing panels and performances this year!
 
 Hours of Operation:
 
@@ -34,11 +34,11 @@ Hours of Operation:
 
 Events Schedule:
 
-* [Thursday Schedule (including Day 0 meetup!)](https://nwidolfest.com/events/thursday)
-* [Friday Schedule](https://nwidolfest.com/events/friday/)
-* [Saturday Schedule](https://nwidolfest.com/events/saturday)
-* [Sunday Schedule](https://nwidolfest.com/events/sunday)
-* [Meet and Greet Schedule](https://nwidolfest.com/events/meet-and-greet-schedule)
+* [Thursday Schedule (including Day 0 meetup!)](https://idolfes.us/events/thursday)
+* [Friday Schedule](https://idolfes.us/events/friday/)
+* [Saturday Schedule](https://idolfes.us/events/saturday)
+* [Sunday Schedule](https://idolfes.us/events/sunday)
+* [Meet and Greet Schedule](https://idolfes.us/events/meet-and-greet-schedule)
 
 ### Venue Map
 

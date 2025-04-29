@@ -57,7 +57,7 @@ Presenters are expected to arrive at their scheduled room for content presentati
 
 Badges must be visibly displayed on your person while in event space. In case of lost badge, one $20 replacement will be available with presentation of photo ID. Additional replacements will be charged full price.
 
-Badges are not refundable, but may be transferred to another person at any point before the convention. To request a transfer, email [registration@idolfes.us](mailto:registration@nwidolfest.com).
+Badges are not refundable, but may be transferred to another person at any point before the convention. To request a transfer, email [registration@idolfes.us](mailto:registration@idolfes.us).
 
 ## Lost Items
 

@@ -80,7 +80,7 @@ function Seo({ description, lang, meta, title, imageUrl, imageAlt }) {
         // Falls back to default which describes the site logo
         { 
           name: `twitter:image:alt`, 
-          content: imageAlt || "nwidolfest.com logo", 
+          content: imageAlt || "idolfes.us logo", 
         },
       ].concat(meta)}
     />
