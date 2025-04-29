@@ -1,19 +1,19 @@
 {
-    "title": "US IdolFes",
-    "shortDates": "Oct 31 - Nov 2",
-    "longDates": "October 31 - November 2",
-    "location": "Redondo Beach, CA",
-    "siteUrl": "https://idolfes.us",
-    "description": "Get ready to experience idol like you never have before! Coming to [venue] on [dates].",
-    "author": "The US IdolFes Team",
-    "sisterBannerEvent": "none",
-    "sisterBannerText": "Panda!",
-    "social": {
-      "twitter": "@NWIdolFest",
-      "facebook": "NO MORE FACEBOOKS",
-      "instagram": "nwidolfest",
-      "discord": "h5yJbXgTgE",
-      "email": "contact@idolfes.us",
-      "bluesky": "idolfest.bsky.social"
-    }
-  }
+  "siteUrl": "https://idolfes.us",
+  "longDates": "October 31 - November 2",
+  "shortDates": "Oct 31 - Nov 2",
+  "sisterBannerEvent": "none",
+  "author": "The US IdolFes Team",
+  "social": {
+    "twitter": "@USIdolFes",
+    "facebook": "NO MORE FACEBOOKS",
+    "instagram": "usidolfes",
+    "discord": "h5yJbXgTgE",
+    "email": "contact@idolfes.us",
+    "bluesky": "idolfest.bsky.social"
+  },
+  "location": "Redondo Beach, CA",
+  "title": "US IdolFes",
+  "description": "Get ready to experience idol like you never have before! Coming to [venue] on [dates].",
+  "sisterBannerText": "Panda!"
+}
