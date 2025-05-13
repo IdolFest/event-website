@@ -7,19 +7,15 @@ Calling all musicians! We're hosting the third annual US IdolFes Grand Prix Song
 
 ## Fan Vote and Playlist
 
-~~Want to listen to all the amazing submissions and vote for your favorites? Check out our fan vote [here](https://idolfe.st/grandprixvote)! The form has all the links for all the songs submitted, and after listening you can vote for up to three of your favorites!~~
-
-The fan vote has closed. We will be announcing the winners at Closing Ceremonies and shortly after on social media!
+The fan vote will not open until October 1. Please check back then!
 
 ## Application
 
-~~F﻿ollowing feedback from entrants and last year's judges, some rules have been clarified or changed from last year. Please make sure to read **all** of the rules below and then submit your song here!~~
-
-Applications have closed for 2024!
+Applications have not yet opened for 2025. Please review the guidelines below and keep an eye on our social media [here](https://idolfes.us/contact/) for when applications open!
 
 ## General Guidelines
 
-* The general theme for this song contest is the same as our convention: idols! Please reflect the styles of music found in Japanese idols in your entry in some way. See the Judging section below for more details.
+* **This year, we have a specific theme for this contest!** As our event is moving to a new location, the theme has a similar vibe: **New Horizons!** The song you create should embody the feelings and emotions of taking the next step, opening a new chapter, creating a new future - turning the zero into a one and a one into something even greater!
 * Entries must include a melody and lyrics. This year will not include a category for instrumental or acapella entries.
 * Entrant(s) do not have to be attending USIF to enter. 
 * With the exception of judges, all USIF staff are also permitted to enter.
@@ -30,7 +26,7 @@ Applications have closed for 2024!
 
 * Songs must be between 1:30 and 5:00 long and can be in any language! They do not need to be able to be performed live.
 * Please keep song content "PG-13" and refrain from any kind of triggering, inappropriate, or offensive content.
-* Any content released prior to the time the contest was announced (May 1, 2024) will not be allowed.
+* Any content released prior to the time the contest was announced (May 30, 2025) will not be allowed. We also ask that submissions for this event are made specifically for this event.
 * Original song submissions must be an entirely original work, or will be judged as a remix/cover.
 * Remixes/covers must credit the original work in the entry form.
 * The entrant(s) retain 100% of any rights and ownership of submitted songs. By submitting a song to this contest, entrant(s) permit USIF to use their song for purposes related to this year’s contest. This may include posting the song on social media or playing it at the event.
@@ -55,7 +51,7 @@ Applications have closed for 2024!
 * Staff Pick awards will be determined by a panel of USIF staff and guest judges. All entrants will receive notes and feedback from our judges which will be released after the award winners have been announced.
 * The Fan Favorite award will be determined by a vote of the public.
 * There will be a YouTube playlist available of all entries so that everyone can listen and support the submissions.
-* The Fan Favorite vote will be opened October 7th, 2024 and will be open until October 12th, 2024 at 6:59pm PT. 
+* The Fan Favorite vote will be opened October 1st, 2025 and will be open until October 31st, 2025 at 6:59pm PT. 
 * The winners will be announced during US IdolFes 2025, and announced to all people not in attendance at some point after Closing Ceremonies!
 
 ## Awards:
