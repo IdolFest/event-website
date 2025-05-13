@@ -91,6 +91,7 @@ const IndexPage = () => {
         childImageSharp {
           gatsbyImageData(
             height: 400
+            quality: 90
           )
         }
       }
