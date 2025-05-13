@@ -116,10 +116,10 @@ const HotelPage = () => {
         <div>
           <sup>†</sup>Taxes and fees not included in price.
         </div>
-        <Button disabled variant="contained" className="cta" href='https://google.com/search?q=cute+cuddly+penguins'>
+        <Button variant="contained" className="cta" href='https://www.sonesta.com/sonesta-hotels-resorts/ca/redondo-beach/sonesta-redondo-beach-marina?isGroupCode=true&groupCode=G103025IDOL&checkin=2025-10-30&checkout=2025-11-03'>
           Book online
         </Button>
-        <div>If you prefer to book by phone, you can call the hotel toll-free at 310-318-8888 and reference the group code "[TBD]".</div>
+        <div>If you prefer to book by phone, you can call the hotel toll-free at 310-318-8888 and reference the group code "G103025IDOL".</div>
       </CenteredBox>
               }
       <CenteredBox>
