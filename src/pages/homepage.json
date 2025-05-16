@@ -1,8 +1,21 @@
 {
   "title": "Welcome to US IdolFes!",
   "body": "Welcome to US IdolFes, the rebirth of NW IdolFest! We hope you will join us for our first year in sunny California!",
-  "registerButtonEnabled": false,
+  "registerButtonEnabled": true,
   "feedbackButtonEnabled": false,
-  "buttons": [],
+  "buttons": [
+    {
+      "text": "Apply to perform!",
+      "href": "https://idolfe.st/perform"
+    },
+    {
+      "text": "Apply for Northern Lights!",
+      "href": "https://idolfe.st/NLapp"
+    },
+    {
+      "text": "Apply to host a panel!",
+      "href": "https://idolfe.st/panelapp"
+    }
+  ],
   "scheduleDays": 3
 }
