@@ -3,7 +3,7 @@ slug: grandprix
 title: Grand Prix Song Contest
 template: page
 ---
-Calling all musicians! We're hosting the third annual US IdolFes Grand Prix Song Contest to showcase your original idol-themed compositions, covers and remixes!
+Calling all musicians! We're hosting the third annual U.S. IdolFes Grand Prix Song Contest to showcase your original idol-themed compositions, covers and remixes!
 
 ## Fan Vote and Playlist
 
@@ -35,7 +35,7 @@ Applications have not yet opened for 2025. Please review the guidelines below an
 ## Submission Guidelines
 
 * Entrant(s) must submit their work at https://idolfe.st/grandprixapp.
-* Entrant(s) must upload their song to YouTube, with “This work is a submission for the 2025 US IdolFes Grand Prix Song Contest” included in the description.
+* Entrant(s) must upload their song to YouTube, with “This work is a submission for the 2025 U.S. IdolFes Grand Prix Song Contest” included in the description.
 * E﻿ntrant(s) must also post their entry on at least one social media with the hashtag #USIFGrandPrix2025, and include this post in the entry form. This will allow your work to be a part of the fan voting process.
 * Entry deadline is September 28, 2024 at 11:59pm PT.
 
@@ -52,7 +52,7 @@ Applications have not yet opened for 2025. Please review the guidelines below an
 * The Fan Favorite award will be determined by a vote of the public.
 * There will be a YouTube playlist available of all entries so that everyone can listen and support the submissions.
 * The Fan Favorite vote will be opened October 1st, 2025 and will be open until October 31st, 2025 at 6:59pm PT. 
-* The winners will be announced during US IdolFes 2025, and announced to all people not in attendance at some point after Closing Ceremonies!
+* The winners will be announced during U.S. IdolFes 2025, and announced to all people not in attendance at some point after Closing Ceremonies!
 
 ## Awards:
 

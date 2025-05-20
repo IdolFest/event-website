@@ -72,7 +72,7 @@ const HotelPage = () => {
         alt=''
       />
       <p>
-        US IdolFes will be held on {dates}, at the Sonesta Redondo Beach &amp; Marina. Details on how to access the venue are available below.
+        U.S. IdolFes will be held on {dates}, at the Sonesta Redondo Beach &amp; Marina. Details on how to access the venue are available below.
           {/* Use when hotel booking is closed  */}
           {/*
            <br /><br />

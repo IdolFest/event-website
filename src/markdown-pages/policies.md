@@ -5,7 +5,7 @@ template: page
 ---
 ## Welcome!
 
-Welcome to US IdolFes, or USIF! We are a group of passionate idol fans working to bring idol culture and programming to the US. The primary purpose of USIF is for the attendees to have fun. To make this happen, USIF has established certain rules of conduct. These rules were created to ensure the behavior of any one individual or group of attendees does not disturb the enjoyment of another attendee, nor detract from the relaxed and comfortable atmosphere of the event. To both enjoy the convention to the fullest as well as to ensure the safety of all participants, please comply with staff instructions at all times.
+Welcome to U.S. IdolFes, or USIF! We are a group of passionate idol fans working to bring idol culture and programming to the US. The primary purpose of USIF is for the attendees to have fun. To make this happen, USIF has established certain rules of conduct. These rules were created to ensure the behavior of any one individual or group of attendees does not disturb the enjoyment of another attendee, nor detract from the relaxed and comfortable atmosphere of the event. To both enjoy the convention to the fullest as well as to ensure the safety of all participants, please comply with staff instructions at all times.
 
 USIF welcomes everyone; however, the event's management reserves the right to deny or revoke the attendance of any individual, at any time, for any reason. This action may be undertaken when an individual's presence or behavior causes significant interference with event operations or adversely affects the organization's relationship with its guests or with its venue. USIF also reserves the right to amend these rules at any time without prior or posted notice. If you have any questions, please [contact the event staff](/contact) for assistance.
 
@@ -31,9 +31,9 @@ This policy applies without exception to everyone at the convention, including a
 
 ## Minor Attendees
 
-All attendees who are under 18 during any time they are at US IdolFes are required to provide a consent form signed by a legal guardian. The consent form can be downloaded [here](/Parental%20Consent%20Form.pdf). If the legal guardian will be present at the event with the minor, then the form can be signed in front of us. If the legal guardian will not be in attendance, the form may be brought pre-signed.
+All attendees who are under 18 during any time they are at U.S. IdolFes are required to provide a consent form signed by a legal guardian. The consent form can be downloaded [here](/Parental%20Consent%20Form.pdf). If the legal guardian will be present at the event with the minor, then the form can be signed in front of us. If the legal guardian will not be in attendance, the form may be brought pre-signed.
 
-Minors ages 13-17 may attend US IdolFes without accompaniment, so long as they have a completed consent form. Minors 12 years of age and under must be accompanied at all times by an adult with a paid badge.
+Minors ages 13-17 may attend U.S. IdolFes without accompaniment, so long as they have a completed consent form. Minors 12 years of age and under must be accompanied at all times by an adult with a paid badge.
 
 School IDs are accepted as proof of ID, or, if accompanied by an adult, the adult's ID may be accepted instead.
 
@@ -43,7 +43,7 @@ All content at USIF is expected to fall within a PG-13 rating unless otherwise a
 
 ## Events (Programming)
 
-All attendees and staff providing content including, but not limited to panels and performances at US IdolFes (referred to in this section as “presenters”) are expected to abide by the content rating as well as providing content that aligns with the scope and mission of our event. To ensure this process is followed through, we maintain an application process for all presenters of which its opening and closing are announced on social media and hosted on our website. Content presented at USIF is hand-selected by members of our staff to ensure that the content aligns with our standards and follows all expectations for USIF content.
+All attendees and staff providing content including, but not limited to panels and performances at U.S. IdolFes (referred to in this section as “presenters”) are expected to abide by the content rating as well as providing content that aligns with the scope and mission of our event. To ensure this process is followed through, we maintain an application process for all presenters of which its opening and closing are announced on social media and hosted on our website. Content presented at USIF is hand-selected by members of our staff to ensure that the content aligns with our standards and follows all expectations for USIF content.
 
 USIF staff are permitted to apply to provide content unless otherwise directed by a USIF Department Head. Staff are held to the same standards listed above for all other attendees and must complete the same application. Any USIF staff involved in the process of reviewing applications are not permitted to participate in the review of their own application and are advised to not participate in the review process altogether.
 

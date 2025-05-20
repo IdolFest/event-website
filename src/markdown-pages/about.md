@@ -3,7 +3,7 @@ slug: /about
 title: About
 template: page
 ---
-US IdolFes is a passion project founded by experienced event organizers. Our goal is to create an event space where idol fans of all types can gather and share in the unique joy that idols bring to our lives. Whether you’re a long-time wota or just getting into the scene, USIF has a place for you!
+U.S. IdolFes is a passion project founded by experienced event organizers. Our goal is to create an event space where idol fans of all types can gather and share in the unique joy that idols bring to our lives. Whether you’re a long-time wota or just getting into the scene, USIF has a place for you!
 
 Though our beginnings may be humble, our love for idols knows no bounds. With your help and under the guidance of our dedicated team, we hope to grow into an event that can bring you live guests from overseas. We aim to become the premiere US convention for the idol community!
 
