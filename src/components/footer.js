@@ -23,7 +23,8 @@ const useStyles = makeStyles(theme => ({
                 }
             },
             '& svg': {
-                color: 'white'
+                color: 'white',
+                fill: 'white'
             },
         },
         '& .copyright': {
@@ -61,10 +62,10 @@ export default function Footer() {
                 site {
                     siteMetadata {
                         social {
-                            facebook
                             twitter
                             instagram
                             discord
+                            bluesky
                         }
                     }
                 }            
@@ -87,8 +88,8 @@ export default function Footer() {
                             src='../images/icon/Icon-Pink.png'
                         />
                     </Grid> */}
-                    {wrapFooterSocial(createSocialIcon(`https://facebook.com/${socialSites.facebook}`, 'facebook'))}
                     {wrapFooterSocial(createSocialIcon(`https://twitter.com/${socialSites.twitter}`, 'twitter'))}
+                    {wrapFooterSocial(createSocialIcon(`https://bsky.app/profile/${socialSites.bluesky}`, 'bluesky'))}
                     {wrapFooterSocial(createSocialIcon(`https://instagram.com/${socialSites.instagram}`, 'instagram'))}
                     {wrapFooterSocial(createSocialIcon(`https://discord.gg/${socialSites.discord}`, 'discord'))}
                     <Grid item className='copyright'>

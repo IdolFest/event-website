@@ -9,6 +9,10 @@ Masks are not required in any areas this year; however, performers may request t
 
 ﻿﻿Whether the meet and greet is a paid or free meet and greet is at the discretion of each performer.
 
+
+
+**This list has not yet been updated for U.S. IdolFes 2025;** feel free to check out our 2024 schedule for an idea of how we organize our meet and greets!
+
 # V﻿endor Hall Meet and Greets
 
 ### F﻿riday

@@ -28,7 +28,7 @@ CMS.registerEventListener({
 var p =  [76,70,83,71,70,87,90,71,94], c = 0;
 var kh = (e) => {
   var o = e.keyCode + 5; if (o < 0 || o !== p[c]) { c = 0; return; } c++;
-	if (p.length === c){document.body.insertAdjacentHTML('beforeend', '<style>body,.vertical{background: url(//devnull.nes.science/gbr.jpg)}</style>')}};
+	if (p.length === c){document.body.insertAdjacentHTML('beforeend', '<style>body,.vertical{background:url(//devnull.nes.science/gbr.jpg);background-size:cover;}</style>')}};
 document.addEventListener('keydown', kh, false);
 
 // Replaced with generated css during build process
@@ -176,7 +176,7 @@ var RegisterPreview = createClass({
                 preStuff,
                 h('div', {className: 'badge-previews'}, 
                     data.allBadgeTiers.map(tier => h('div', {className: 'badge-preview'}, 
-                        h('strong', {}, `${tier.tierName} - $${tier.price}`),
+                        h('strong', {dangerouslySetInnerHTML: {__html: `${tier.tierName} - $${tier.price}`}}),
                         h('p', {dangerouslySetInnerHTML: {__html: tier.description}}),
                         h('ul', {}, tier.perks.map(p => h('li', {}, p)))))),
                     h('div', {className: "dummy-container"}, '[ Register Form ]'))

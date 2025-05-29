@@ -1,18 +1,19 @@
 {
-    "title": "IdolFest",
-    "shortDates": "TBD",
-    "longDates": "TBD",
-    "location": "Somewhere, CA",
-    "siteUrl": "https://ng.nwidolfest.com",
-    "description": "Get ready to experience idol like you never have before! Coming to [venue] on [dates].",
-    "author": "The IdolFest Team",
-    "sisterBannerEvent": "none",
-    "sisterBannerText": "Panda!",
-    "social": {
-      "twitter": "@TBD",
-      "facebook": "TBD",
-      "instagram": "TBD",
-      "discord": "h5yJbXgTgE",
-      "email": "contact@TBD"
-    }
-  }
+  "siteUrl": "https://idolfes.us",
+  "longDates": "October 31 - November 2",
+  "shortDates": "Oct 31 - Nov 2",
+  "sisterBannerEvent": "none",
+  "author": "The U.S. IdolFes Team",
+  "social": {
+    "twitter": "@USIdolFes",
+    "facebook": "NO MORE FACEBOOKS",
+    "instagram": "usidolfesofficial",
+    "discord": "h5yJbXgTgE",
+    "email": "contact@idolfes.us",
+    "bluesky": "idolfest.bsky.social"
+  },
+  "location": "Redondo Beach, CA",
+  "title": "U.S. IdolFes",
+  "description": "Get ready to experience idol like you never have before! Coming to the Sonesta Redondo Beach on Oct 31 - Nov 2, 2025.",
+  "sisterBannerText": "Panda!"
+}

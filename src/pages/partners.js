@@ -32,7 +32,7 @@ const IndexPage = () => {
       />
 
       <PageContent>
-        <p>Northwest IdolFest is proud to partner with some amazing organizations. Interested in joining up? <Link to="/contact">Drop us a line!</Link></p>
+        <p>U.S. IdolFes is proud to partner with some amazing organizations. Interested in joining up? <Link to="/contact">Drop us a line!</Link></p>
 
         <Grid container style={{ justifyContent: 'space-around' }}>
 

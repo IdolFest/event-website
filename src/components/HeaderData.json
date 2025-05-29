@@ -6,7 +6,8 @@
     },
     {
       "label": "Hotel",
-      "href": "/hotel"
+      "href": "/hotel",
+      "disabled": false
     },
     {
       "label": "Guests",
@@ -71,11 +72,12 @@
         }
       ],
       "external": false,
-      "disabled": false
+      "disabled": true
     },
     {
       "label": "Vendors",
-      "href": "/vendors"
+      "href": "/vendors",
+      "disabled": true
     },
     {
       "label": "About",
@@ -104,7 +106,8 @@
         },
         {
           "label": "Partners",
-          "href": "/partners"
+          "href": "/partners",
+          "disabled": true
         },
         {
           "label": "Discord",

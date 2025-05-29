@@ -115,7 +115,7 @@ function displayPaymentResults(status, paymentResults) {
         statusContainer.classList.add('is-success');
         receiptContainer.style.visibility = 'visible';
         receiptContainer.style.visibility = 'visible';
-        receiptContainer.innerHTML = `Thank you for purchasing a NWIF badge! Please save <a href=${paymentResults.payment.receiptUrl} target="_blank">your receipt</a> before closing this page.<br /><br /><a href="https://discord.gg/h5yJbXgTgE" target="_blank">Join our Discord</a> and claim your role now!<br /><br />`;
+        receiptContainer.innerHTML = `Thank you for purchasing a badge! Please save <a href=${paymentResults.payment.receiptUrl} target="_blank">your receipt</a> before closing this page.<br /><br /><a href="https://discord.gg/h5yJbXgTgE" target="_blank">Join our Discord</a> and claim your role now!<br /><br />`;
         if (typeof window !== "undefined" && typeof window.gtag !== "undefined") { 
             let params = {}
             // In case someone's buying a badge in something ancient...

@@ -6,9 +6,9 @@ backend:
   # Comment this next line out to use this locally
   base_url: https://c03m0wt68h.execute-api.us-east-1.amazonaws.com
   auth_endpoint: /auth
-site_domain: ng.nwidolfest.com
-site_url: https://ng.nwidolfest.com/
-logo_url: https://ng.nwidolfest.com/admin/logo.svg
+site_domain: idolfes.us
+site_url: https://idolfes.us/
+logo_url: https://idolfes.us/admin/logo.svg
 # This is where it's stored in the repo
 media_folder: "/static/images/uploads"
 # This is where it is url-wise
@@ -87,6 +87,7 @@ collections:
       - {label: "Bandcamp", name: "bandcamp", widget: "string", required: false}
       - {label: "Spotify", name: "spotify", widget: "string", required: false}
       - {label: "Facebook", name: "facebook", widget: "string", required: false}
+      - {label: "Bluesky", name: "bluesky", widget: "string", required: false}
       - {label: "Patreon", name: "patreon", widget: "string", required: false}
       - {label: "TikTok", name: "tiktok", widget: "string", required: false}
       - {label: "Guest \"star\" Image", name: "guestimg", widget: "image", hint: "Please surround the image with the event's star image border. This will not be done for you! Use only the outside border.\r\nFile: https://drive.google.com/file/d/1t8GmsVC0cwWwDAZGkeTgBNzQPSuqEwIn/view?usp=drive_link"}
@@ -106,6 +107,7 @@ collections:
         - {label: "Short Dates", name: "shortDates", widget: "string"}
         - {label: "Long Dates", name: "longDates", widget: "string"}
         - {label: "Location", name: "location", widget: "string"}
+        - {label: "Social Preview Description", name: "description", widget: "string"}
         - label: "Sister Banner Event"
           name: "sisterBannerEvent"
           widget: "select"
@@ -116,7 +118,7 @@ collections:
           widget: object
           fields: 
             - {label: "Twitter", name: "twitter", widget: "string"}
-            - {label: "Facebook", name: "facebook", widget: "string"}
+            - {label: "Bluesky", name: "bluesky", widget: "string"}
             - {label: "Instagram", name: "instagram", widget: "string"}
             - {label: "Discord", name: "discord", widget: "string"}
             - {label: "Email", name: "email", widget: "string"}
