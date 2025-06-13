@@ -25,7 +25,14 @@ If someone's behavior makes you feel unwelcome, unsafe, or uncomfortable, that i
 
 Keep your hands to yourself. Respect your fellow attendees. Keep an eye on what you say to people and how you act around them. Take notice of people's pronouns and use them. Remember, cosplay is not consent: just because someone is in costume, it doesn't give you permission to take a picture or touch their costume. Ask first, and if they tell you no, respect that.
 
-If you feel harassed or see someone else being harassed, notify a staff member immediately. You are also within your rights to ask the harasser to stop on your own. Once notified, USIF staff will take any action necessary to stop the behavior, up to and including badge revocation and expulsion from convention premises. We will also take steps to help you feel safe again at your request, such as escorting you to a place you feel safe, contacting your friends or family for you, or contacting local law enforcement.
+If you feel harassed or see someone else being harassed, you have the following options to report/deal with harassment:
+
+1. You are within your rights to ask the harasser to stop on your own if you are comfortable.
+2. Notify a staff member. If the staff member is involved in the harassment, please use one of the below methods or reach out to our convention chairs at chairs@idolfes.us.
+3. Call and/or text the USIF Harassment Hotline during the convention at (424) 231-8815. 
+4. Email us at hr@idolfes.us.
+
+Once notified, USIF staff will take any action necessary to stop the behavior, up to and including badge revocation, expulsion from convention premises, and/or being banned from future IdolFest Foundation events. We will also take steps to help you feel safe again at your request, such as escorting you to a place you feel safe, contacting your friends or family for you, or contacting local law enforcement.
 
 This policy applies without exception to everyone at the convention, including attendees, panelists, vendors, guests, convention staff, and venue staff.
 
@@ -122,7 +129,5 @@ USIF attendees should be aware that audio and/or video recordings are frequently
 Everyone must comply with the USIF anti-harassment policy when taking photos or videos of others. Be respectful and remember that cosplay is not consent.
 
 USIF has staff photographers who may take audio/video recordings during times when attendees are not permitted to record. If you are taking photos for personal use, we request that you give staff photographers priority and move out of their shot if asked. Thank you!
-
-
 
 We appreciate everyone's cooperation in abiding by our event's policies. In doing so, you help us ensure that everyone can have a safe, fun, and exciting time doing what we all love: enjoying idols!
