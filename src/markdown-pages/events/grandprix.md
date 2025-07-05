@@ -26,7 +26,7 @@ Applications have not yet opened for 2025. Please review the guidelines below an
 
 * Songs must be between 1:30 and 5:00 long and can be in any language! They do not need to be able to be performed live.
 * Please keep song content "PG-13" and refrain from any kind of triggering, inappropriate, or offensive content.
-* Any content released prior to the time the contest was announced (May 30, 2025) will not be allowed. We also ask that submissions for this event are made specifically for this event.
+* Any content released prior to the time the contest was announced (June 30, 2025) will not be allowed. We also ask that submissions for this event are made specifically for this event.
 * Original song submissions must be an entirely original work, or will be judged as a remix/cover.
 * Remixes/covers must credit the original work in the entry form.
 * The entrant(s) retain 100% of any rights and ownership of submitted songs. By submitting a song to this contest, entrant(s) permit USIF to use their song for purposes related to this year’s contest. This may include posting the song on social media or playing it at the event.
