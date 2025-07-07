@@ -11,7 +11,7 @@ The fan vote will not open until October 15. Please check back then!
 
 ## Application
 
-Applications have not yet opened for 2025. Please review the guidelines below and keep an eye on our social media [here](https://idolfes.us/contact/) for when applications open!
+Send in your submission [here](https://idolfe.st/grandprixapp)!
 
 ## General Guidelines
 
