@@ -9,7 +9,7 @@
   "allBadgeTiers": [
     {
       "badgeName": "Friday",
-      "onSale": true,
+      "onSale": false,
       "price": "45",
       "tierName": "Bronze",
       "description": "This badge grants: ",
