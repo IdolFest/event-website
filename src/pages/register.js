@@ -25,7 +25,7 @@ import { styled, makeStyles } from '@material-ui/styles'
 import { navigate, Link } from 'gatsby'
 import RegistrationTier from '@components/registrationTier'
 import registerInfo from './registerinfo.json'
-const { badgeListUIOnly,allBadgeTiers, registrationEnabled, showBadgePricingNote, showBadgePickupHours, badgePickupHoursText, badgePricingHoursText, regClosedHeading, regClosedText } = registerInfo
+const {allBadgeTiers, registrationEnabled, showBadgePricingNote, showBadgePickupHours, badgePickupHoursText, badgePricingHoursText, regClosedHeading, regClosedText } = registerInfo
 
 let lambdaUrl
 
@@ -47,9 +47,9 @@ const FormBox = styled(Box)({
   paddingBottom: '1em'
 })
 
-const badgesRowOne = badgeListUIOnly.slice(0, 3)
-const badgesRowTwo = badgeListUIOnly.slice(3, 6)
-const badgesRowThree = badgeListUIOnly.slice(6)
+const badgesRowOne = allBadgeTiers.slice(0, 3)
+const badgesRowTwo = allBadgeTiers.slice(3, 6)
+const badgesRowThree = allBadgeTiers.slice(6)
 
 const tshirtSizes = ['XS', 'S', 'M', 'L', 'XL', '2XL', '3XL', '4XL']
 
