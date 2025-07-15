@@ -6,7 +6,7 @@
   "badgePricingHoursText": "<i>USIF does not sell one day badges.</i>\nSilver badges decrease in price as the weekend goes on.\n\nFriday: $85\nSaturday: $55\nSunday: $25",
   "regClosedHeading": "Thank you for attending Northwest IdolFest 2024!",
   "regClosedText": "Registration is closed because NWIF 2024 is now over. Thank you for making it a huge success! Sign up for our email list below to get notified when our next event will be!",
-  "allBadgeTypes":  [
+  "allBadgeTiers":  [
     {
       "badgeName": "Friday",
       "badgeKey": "badge-friday",
@@ -147,7 +147,7 @@
     }
 
   ],
-  "allBadgeTiers": [
+  "badgeListUIOnly": [
     {
       "badgeName": "One Day",
       "badgeKey": "badge-bronze",
