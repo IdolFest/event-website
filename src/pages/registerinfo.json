@@ -14,10 +14,7 @@
       "tierName": "Bronze",
       "description": "This badge grants: ",
       "perks": [
-        "Access to events at USIF on one day of choice",
-        "Friday - $45",
-        "Saturday - $50",
-        "Sunday - $30"
+        "Access to events at USIF on Friday"
       ],
       "badgeKey": "badge-friday",
       "hasTax": false
@@ -30,10 +27,7 @@
       "price": "50",
       "description": "This badge grants: ",
       "perks": [
-        "Access to events at USIF on one day of choice",
-        "Friday - $45",
-        "Saturday - $50",
-        "Sunday - $30"
+        "Access to events at USIF on Saturday"
       ],
       "hasTax": false
     },
@@ -45,17 +39,14 @@
       "tierName": "Bronze",
       "description": "This badge grants: ",
       "perks": [
-        "Access to events at USIF on one day of choice",
-        "Friday - $45",
-        "Saturday - $50",
-        "Sunday - $30"
+        "Access to events at USIF on Sunday"
       ],
       "hasTax": false
     },
     {
       "badgeName": "Full Weekend",
       "badgeKey": "badge-silver",
-      "onSale": false,
+      "onSale": true,
       "hasTax": false,
       "price": "85",
       "tierName": "Silver",
