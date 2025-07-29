@@ -451,7 +451,8 @@ const ClosedRegisterPage = () => {
         <p dangerouslySetInnerHTML={{__html: regClosedText}}>
           
         </p>
-        <NewsletterSignup />
+        {/* SENDGRID AHASDLQKJHASDGLASDG */}
+        {/* <NewsletterSignup /> */}
       </PageContent>
     </Layout>
   )

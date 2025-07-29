@@ -159,8 +159,9 @@ const IndexPage = () => {
         </div>
         <br />
         <br />
-        <p>Sign up for our email list below to get notifications for future announcements.</p>
-        <NewsletterSignup />
+        {/* sendgrid terminated our account and deleted our contacts and contact lists without warning. Disable while we weather this storm
+        <p>Sign up for our email list below to get notifications for future announcements.</p> 
+        <NewsletterSignup /> */}
       </PageContent>
     </Layout>
   )
