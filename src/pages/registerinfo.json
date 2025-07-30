@@ -9,7 +9,7 @@
   "allBadgeTiers": [
     {
       "badgeName": "Friday",
-      "onSale": true,
+      "onSale": false,
       "price": "45",
       "tierName": "Bronze",
       "description": "This badge grants: ",
@@ -55,7 +55,7 @@
     {
       "badgeName": "Full Weekend",
       "badgeKey": "badge-silver",
-      "onSale": false,
+      "onSale": true,
       "hasTax": false,
       "price": "85",
       "tierName": "Silver",
