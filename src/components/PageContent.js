@@ -8,8 +8,23 @@ const useStyles = makeStyles(theme => ({
     backgroundColor: theme.palette.primary.main,
     borderRadius: '10px',
     marginTop: '1em',
-    padding: '2em'
-  }
+    padding: '2em',
+    position: 'relative'
+  },
+  char: {
+      background: `url('/images/key_char_bg.png')`,
+      backgroundRepeat: 'no-repeat',
+      backgroundSize: 'contain',
+      paddingBottom: '1em',
+      flexGrow: '1',
+      position: 'absolute',
+      zIndex: 0,
+      left: '-20svw',
+      top: '0',
+      width: '20svw',
+      height: '100%'
+
+    },
 }))
 
 const PageContent = ({ children, maxWidth }) => {
@@ -19,6 +34,7 @@ const PageContent = ({ children, maxWidth }) => {
     <Container 
       maxWidth={maxWidth ? maxWidth : "md"}
       className={classes.container}>
+      <div className={classes.char} />
       {children}
     </Container>
   )

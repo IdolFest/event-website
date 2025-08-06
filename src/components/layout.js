@@ -28,7 +28,7 @@ const useStyles = makeStyles(theme => ({
     content: {
       background: `linear-gradient(rgba(251, 250, 251, 0.79), 65.97%, rgba(255, 255, 255, 0)), url('/images/diamondsSolidPink.svg'), center center`,
       paddingBottom: '1em',
-      flexGrow: '1'
+      flexGrow: '1',
     }
 }));
 
@@ -41,7 +41,7 @@ const Layout = ({ children }) => {
               <Grid>
                 <Header />
               </Grid>
-              <Grid item color="primary" className={classes.content}>    
+              <Grid item color="primary" className={classes.content}>
                 <main>{children}</main>
               </Grid>
               <Footer />
