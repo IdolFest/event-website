@@ -149,7 +149,7 @@ const OpenRegisterPage = () => {
         initialValues={initialValues}
         validationSchema={Yup.object({
           badgeType: Yup.string()
-            .matches(/(badge-spirit|badge-5-and-under|badge-6-to-12|badge-silver|badge-friday|badge-saturday|badge-sunday|badge-sponsor|badge-supersponsor)/)
+            .matches(/(badge-spirit|badge-5-and-under|badge-6-to-12|badge-attendee|badge-friday|badge-saturday|badge-sunday|badge-sponsor|badge-supersponsor)/)
             .required('Required'),
           fullName: Yup.string()
             .max(80, 'Must be 80 characters or less')
