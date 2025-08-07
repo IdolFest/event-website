@@ -47,9 +47,18 @@ const FormBox = styled(Box)({
   paddingBottom: '1em'
 })
 
-const badgesRowOne = allBadgeTiers.slice(0, 3)
-const badgesRowTwo = allBadgeTiers.slice(3, 6)
-const badgesRowThree = allBadgeTiers.slice(6)
+const allBadgeTiersDisplay = allBadgeTiers.filter(b => !b.badgeKey.endsWith('day'))
+const anyDayBadge = allBadgeTiers.find(b => b.badgeKey.endsWith('day'))
+const genericDayBadge = JSON.parse(JSON.stringify(anyDayBadge))
+genericDayBadge.badgeName = "Day Badge"
+genericDayBadge.price = "Varies by day"
+genericDayBadge.perks = ["Access to events on chosen day","Choose from Friday, Saturday, or Sunday."]
+allBadgeTiersDisplay.unshift(genericDayBadge)
+
+const badgesRowOne = allBadgeTiersDisplay.slice(0, 2)
+const badgesRowTwo = allBadgeTiersDisplay.slice(2, 4)
+const badgesRowThree = allBadgeTiersDisplay.slice(4)
+
 
 const tshirtSizes = ['XS', 'S', 'M', 'L', 'XL', '2XL', '3XL', '4XL']
 
