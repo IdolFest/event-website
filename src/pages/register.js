@@ -25,7 +25,7 @@ import { styled, makeStyles } from '@material-ui/styles'
 import { navigate, Link } from 'gatsby'
 import RegistrationTier from '@components/registrationTier'
 import registerInfo from './registerinfo.json'
-const { allBadgeTiers, registrationEnabled, showBadgePricingNote, showBadgePickupHours, badgePickupHoursText, badgePricingHoursText, regClosedHeading, regClosedText } = registerInfo
+const {allBadgeTiers, registrationEnabled, showBadgePricingNote, showBadgePickupHours, badgePickupHoursText, badgePricingHoursText, regClosedHeading, regClosedText } = registerInfo
 
 let lambdaUrl
 
@@ -47,8 +47,18 @@ const FormBox = styled(Box)({
   paddingBottom: '1em'
 })
 
-const badgesRowOne = allBadgeTiers.slice(0, 3)
-const badgesRowTwo = allBadgeTiers.slice(3)
+const allBadgeTiersDisplay = allBadgeTiers.filter(b => !b.badgeKey.endsWith('day'))
+const anyDayBadge = allBadgeTiers.find(b => b.badgeKey.endsWith('day'))
+const genericDayBadge = JSON.parse(JSON.stringify(anyDayBadge))
+genericDayBadge.badgeName = "Day Badge"
+genericDayBadge.price = "Varies by day"
+genericDayBadge.perks = ["Access to events on chosen day","Choose from Friday, Saturday, or Sunday."]
+allBadgeTiersDisplay.unshift(genericDayBadge)
+
+const badgesRowOne = allBadgeTiersDisplay.slice(0, 2)
+const badgesRowTwo = allBadgeTiersDisplay.slice(2, 4)
+const badgesRowThree = allBadgeTiersDisplay.slice(4)
+
 
 const tshirtSizes = ['XS', 'S', 'M', 'L', 'XL', '2XL', '3XL', '4XL']
 
@@ -148,7 +158,7 @@ const OpenRegisterPage = () => {
         initialValues={initialValues}
         validationSchema={Yup.object({
           badgeType: Yup.string()
-            .matches(/(badge-spirit|badge-5-and-under|badge-6-to-12|badge-attendee|badge-sponsor|badge-supersponsor)/)
+            .matches(/(badge-spirit|badge-5-and-under|badge-6-to-12|badge-attendee|badge-friday|badge-saturday|badge-sunday|badge-sponsor|badge-supersponsor)/)
             .required('Required'),
           fullName: Yup.string()
             .max(80, 'Must be 80 characters or less')
@@ -234,6 +244,14 @@ const OpenRegisterPage = () => {
 
       <Grid container spacing={2} alignItems='stretch' justify='space-evenly' align-content='space-evenly'>
             {badgesRowTwo.map((badge) => (
+              <Grid item xs={12} sm={12} md key={badge.badgeName}>
+                <RegistrationTier badge={badge} onClick={() => selectBadge(badge, props)} />
+              </Grid>
+            ))}
+      </Grid>
+
+      <Grid container spacing={2} alignItems='stretch' justify='space-evenly' align-content='space-evenly'>
+            {badgesRowThree.map((badge) => (
               <Grid item xs={12} sm={12} md key={badge.badgeName}>
                 <RegistrationTier badge={badge} onClick={() => selectBadge(badge, props)} />
               </Grid>
@@ -335,10 +353,14 @@ const OpenRegisterPage = () => {
           </Box>
           )}
 
+
+          { (props.values.badgeType != 'badge-friday' && props.values.badgeType != 'badge-saturday' && props.values.badgeType != 'badge-sunday' && props.values.badgeType != 'badge-6-to-12') && (
           <Box margin={1}>
             <Field name="discordHandle" type="text" label="Discord Handle (optional)" component={TextField} fullWidth={true} aria-describedby='discordHandleHelperText' />
             <FormHelperText id='discordHandleHelperText'>If you're in our server and provide your Discord handle, we'll give you a special role!</FormHelperText>
           </Box>
+          )}
+          
     
           <Box margin={1}>
             <Field name="email" type="email" label="* Email" component={TextField} fullWidth={true} /> 
