@@ -1,5 +1,5 @@
 import * as React from "react"
-import { useState, useRef } from "react"
+import { useRef } from "react"
 import Layout from '@components/layout'
 import Seo from '@components/seo'
 import Hero from "@components/hero"
@@ -55,9 +55,9 @@ genericDayBadge.price = "Varies by day"
 genericDayBadge.perks = ["Access to events on chosen day","Choose from Friday, Saturday, or Sunday."]
 allBadgeTiersDisplay.unshift(genericDayBadge)
 
-const badgesRowOne = allBadgeTiersDisplay.slice(0, 2)
-const badgesRowTwo = allBadgeTiersDisplay.slice(2, 4)
-const badgesRowThree = allBadgeTiersDisplay.slice(4)
+const badgesRowOne = allBadgeTiersDisplay.slice(0, 4)
+const badgesRowTwo = allBadgeTiersDisplay.slice(4)
+const badgesRowThree = []
 
 
 const tshirtSizes = ['XS', 'S', 'M', 'L', 'XL', '2XL', '3XL', '4XL']
@@ -354,7 +354,7 @@ const OpenRegisterPage = () => {
           )}
 
 
-          { (props.values.badgeType != 'badge-friday' && props.values.badgeType != 'badge-saturday' && props.values.badgeType != 'badge-sunday' && props.values.badgeType != 'badge-6-to-12') && (
+          { (props.values.badgeType !== 'badge-friday' && props.values.badgeType !== 'badge-saturday' && props.values.badgeType !== 'badge-sunday' && props.values.badgeType !== 'badge-6-to-12') && (
           <Box margin={1}>
             <Field name="discordHandle" type="text" label="Discord Handle (optional)" component={TextField} fullWidth={true} aria-describedby='discordHandleHelperText' />
             <FormHelperText id='discordHandleHelperText'>If you're in our server and provide your Discord handle, we'll give you a special role!</FormHelperText>
