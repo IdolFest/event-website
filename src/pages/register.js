@@ -57,7 +57,6 @@ allBadgeTiersDisplay.unshift(genericDayBadge)
 
 const badgesRowOne = allBadgeTiersDisplay.slice(0, 4)
 const badgesRowTwo = allBadgeTiersDisplay.slice(4)
-const badgesRowThree = []
 
 
 const tshirtSizes = ['XS', 'S', 'M', 'L', 'XL', '2XL', '3XL', '4XL']
@@ -244,14 +243,6 @@ const OpenRegisterPage = () => {
 
       <Grid container spacing={2} alignItems='stretch' justify='space-evenly' align-content='space-evenly'>
             {badgesRowTwo.map((badge) => (
-              <Grid item xs={12} sm={12} md key={badge.badgeName}>
-                <RegistrationTier badge={badge} onClick={() => selectBadge(badge, props)} />
-              </Grid>
-            ))}
-      </Grid>
-
-      <Grid container spacing={2} alignItems='stretch' justify='space-evenly' align-content='space-evenly'>
-            {badgesRowThree.map((badge) => (
               <Grid item xs={12} sm={12} md key={badge.badgeName}>
                 <RegistrationTier badge={badge} onClick={() => selectBadge(badge, props)} />
               </Grid>
