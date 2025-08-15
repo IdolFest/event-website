@@ -25,7 +25,8 @@ const useStyles = makeStyles(theme => ({
     },
   },
   regularTierText: {
-    height: '320px'
+    height: '280px',
+    fontSize: '80%'
   },
   tierTextImage: {
     maxHeight: '50px',

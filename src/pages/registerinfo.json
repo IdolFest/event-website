@@ -6,9 +6,45 @@
   "badgePricingHoursText": "<i>USIF does not sell one day badges.</i>\nSilver badges decrease in price as the weekend goes on.\n\nFriday: $85\nSaturday: $55\nSunday: $25",
   "regClosedHeading": "Thank you for attending Northwest IdolFest 2024!",
   "regClosedText": "Registration is closed because NWIF 2024 is now over. Thank you for making it a huge success! Sign up for our email list below to get notified when our next event will be!",
-  "allBadgeTiers": [
+  "allBadgeTiers":  [
     {
-      "badgeName": "Attendee",
+      "badgeName": "Friday",
+      "badgeKey": "badge-friday",
+      "onSale": true,
+      "hasTax": false,
+      "price": "45",
+      "tierName": "Bronze",
+      "description": "This badge grants:",
+      "perks": [
+        "Access to events at USIF on Friday"
+      ]
+    },
+    {
+      "badgeName": "Saturday",
+      "badgeKey": "badge-saturday",
+      "onSale": true,
+      "hasTax": false,
+      "price": "50",
+      "tierName": "Bronze",
+      "description": "This badge grants:",
+      "perks": [
+        "Access to events at USIF on Saturday"
+      ]
+    },
+    {
+      "badgeName": "Sunday",
+      "badgeKey": "badge-sunday",
+      "onSale": true,
+      "hasTax": false,
+      "price": "30",
+      "tierName": "Bronze",
+      "description": "This badge grants:",
+      "perks": [
+        "Access to events at USIF on Sunday"
+      ]
+    },
+    {
+      "badgeName": "Full Weekend",
       "badgeKey": "badge-attendee",
       "onSale": true,
       "hasTax": false,
@@ -109,5 +145,6 @@
       "badgeKey": "you-cant-buy-this",
       "hasTax": false
     }
+
   ]
 }

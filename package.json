@@ -57,7 +57,7 @@
   "scripts": {
     "build": "gatsby build && npm run build-admin",
     "build-admin": "cp -r static/admin public/ && node ./build-admin.js",
-    "develop": "gatsby develop",
+    "develop": "gatsby develop -H 0.0.0.0",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
     "start": "npm run develop",
     "start-compiled": "npm run build && npm run start-static-server",
