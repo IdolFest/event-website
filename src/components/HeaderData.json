@@ -19,7 +19,7 @@
           "disabled": false
         }
       ],
-      "disabled": true
+      "disabled": false
     },
     {
       "label": "Events",
