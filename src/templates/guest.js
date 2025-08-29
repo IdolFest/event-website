@@ -9,7 +9,7 @@ import GuestComponent from "@components/Guest"
 
 // Adding fields? Make sure to add them to the query below, too. And that at least one
 // guest has them. If all else fails, add it to one of our 2021 guests with a blank value. 
-const socialChannels = ['twitch', 'youtube', 'twitter', 'homepage', 'instagram', 'bandcamp', 'spotify', 'facebook', 'tiktok', 'patreon']
+const socialChannels = ['twitch', 'youtube', 'twitter', 'homepage', 'instagram', 'bandcamp', 'spotify', 'facebook', 'tiktok', 'patreon', 'applemusic', 'showroom', 'threads']
 
 export default function Guest({
   data, // this prop will be injected by the GraphQL query below.
@@ -71,6 +71,9 @@ export const query = graphql`
         spotify,
         facebook,
         patreon,
+        applemusic,
+        showroom,
+        threads,
       }
     }
   }

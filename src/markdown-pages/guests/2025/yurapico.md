@@ -11,6 +11,7 @@ slug: yurapico
 instagram: https://www.instagram.com/yura_burstgirl/
 spotify: https://open.spotify.com/artist/6rStEPNSMXK2OhruZr1mF3
 tiktok: https://www.tiktok.com/@yurasmile127
+threads: https://www.threads.com/@yura_burstgirl
 guestimg: /images/guests/yurapico-guest-star.png
 NOTE: Make sure image of the guest is in the media folder, named
   guest_(YEAR)_(GUEST_SLUG).png

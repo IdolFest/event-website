@@ -13,6 +13,8 @@ instagram: https://www.instagram.com/nonsweet_ca/
 spotify: https://open.spotify.com/artist/7fJKNFZ9AQfdkPgGFdxhZz?si=kffCZAbAR8WQpCXJzTYgIg&nd=1
 patreon: https://www.patreon.com/nonsweet
 tiktok: https://www.tiktok.com/explore?_r=1
+showroom: https://www.showroom-live.com/r/nonsweet
+applemusic: https://music.apple.com/ca/artist/non-sweet/1552821308
 guestimg: /images/guests/ns-guest-star.png
 NOTE: Make sure image of the guest is in the media folder, named
   guest_(YEAR)_(GUEST_SLUG).png
