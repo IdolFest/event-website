@@ -4,7 +4,7 @@ name: Mint Fantôme
 title: Mint Fantôme
 descriptor: GHOST!
 youtube: https://www.youtube.com/channel/UCcHHkJ98eSfa5aj0mdTwwLQ
-twitter: https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbEJvZW5meEEwdWFXQVk0dF9yeThqX2V2a1hyZ3xBQ3Jtc0tscHdhWko5bHlwZFZLTUgzVlcxbUFHZXd5WHJJcEJRNlItTzE3aG5sMl9qZldSRGdOWVAxbVQxSHBjbFZfWXlQSm1YejdsdWd2WUFYTzhHbDB6U3U2djZaeEJRblMyY2VOLXlWZ0pkMlkwaFdNcm5ESQ&q=https%3A%2F%2Fwww.twitter.com%2FMintFantome
+twitter: https://x.com/mintfantome
 bluesky: https://bsky.app/profile/mintfantome.ghostmaid.cafe
 slug: mintfantome
 guestimg: /images/guests/mint-guest-star.png
