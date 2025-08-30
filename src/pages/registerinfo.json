@@ -3,10 +3,10 @@
   "showBadgePickupHours": false,
   "badgePickupHoursText": "Thursday, October 30: 5-7 PM\nFriday, October 31: 10 AM-7 PM\nSaturday, November 1: 9:30 AM-7 PM\nSunday, November 2: 9:30 AM-12 PM ",
   "showBadgePricingNote": false,
-  "badgePricingHoursText": "<i>USIF does not sell one day badges.</i>\nSilver badges decrease in price as the weekend goes on.\n\nFriday: $85\nSaturday: $55\nSunday: $25",
-  "regClosedHeading": "Thank you for attending Northwest IdolFest 2024!",
-  "regClosedText": "Registration is closed because NWIF 2024 is now over. Thank you for making it a huge success! Sign up for our email list below to get notified when our next event will be!",
-  "allBadgeTiers":  [
+  "badgePricingHoursText": "<i>USIF does not sell one day badges.</i>\nSilver badges decrease in price as the weekend goes on.\n\nFriday (Full Weekend): $85\nSaturday (Saturday + Sunday): $55\nSunday: Unavailable, please purchase a Bronze badge for Sunday!",
+  "regClosedHeading": "Thank you for attending U.S. IdolFes 2025!",
+  "regClosedText": "Registration is closed because USIF 2025 is now over. Thank you for making our first convention in CA a huge success! Sign up for our email list below to get notified when our next event will be!",
+  "allBadgeTiers": [
     {
       "badgeName": "Friday",
       "badgeKey": "badge-friday",
@@ -145,6 +145,5 @@
       "badgeKey": "you-cant-buy-this",
       "hasTax": false
     }
-
   ]
 }
