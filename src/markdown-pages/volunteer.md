@@ -18,4 +18,4 @@ In exchange, our staffers receive:
 * Access to our staff suite and hospitality areas with snacks, drinks, and rest space, and 
 * Our undying gratitude!
 
-The staff application is now LIVE! Please apply to staff [here](https://idolfe.st/staffapp)![](https://idolfe.st/staffapp)[](https://idolfe.st/staffapp)[](https://idolfe.st/staffapp)
+The staff application is now LIVE! Please apply to staff [here!](https://idolfe.st/staffapp)[](https://idolfe.st/staffapp)[](https://idolfe.st/staffapp)
