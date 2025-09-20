@@ -1,7 +1,7 @@
 ---
 template: guest
-name: Meikai Oceanus
-title: Meikai Oceanus
+name: 溟海オシアナス / Meikai Oceanus
+title: 溟海オシアナス / Meikai Oceanus
 descriptor: Female idol group from Taipei
 youtube: https://www.youtube.com/@meikaioceanus
 twitter: https://twitter.com/meikaioceanus
