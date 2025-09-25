@@ -131,15 +131,16 @@ const HotelPage = () => {
       </CenteredBox>
       <h3>Bus</h3>
         
-        <p>The hotel is accessible via the route 109 bus line, "Redondo Beach Riviera Village - LAX City Bus Center". The hotel is 2 minutes from the Beryl St. / Harbor Dr. stop.</p>
+      <p>The hotel is accessible via Beach City Transit (BCT)'s route 109 southbound bus line, "LAX City Bus Center - Redondo Beach Riviera Village". The hotel is 2 minutes from the Beryl 
+        St. / Harbor Dr. stop. It is also accessible via Metro's route 232 southbound bus line, "LAX City Bus Center - Long Beach".</p>
 
-        <p>After arriving at LAX, use the automated people mover to head to LAX/Metro Transit Center station to take the southbound K line. Exit at Douglas Station (approximately 10 minutes). Walk from the station to the nearby bus stop at Douglas and Park. Once there, catch route 109 southbound, "Redondo Beach Riviera Village - LAX City Bus Center," which arrives about every 45 minutes. After about 30 minutes (27 stops), get off at the Beryl St. / Harbor Dr. stop. Walk back towards the intersection, then turn left passing Sol Restaurant. After about a 2 minute walk, the hotel will be on your left!</p>
+      <p>After arriving at LAX, look for the pink LAX Shuttle sign on the Lower/Arrivals Level (regardless of terminal) and board the  Metro Connector Shuttle, taking you to the LAX/Metro 
+        Transit Center. Once there, catch route 109 southbound. After about 30 minutes (27 stops), get off at the Beryl St. / Harbor Dr. stop. Walk back towards the intersection, then turn 
+        left passing Sol Restaurant. After about a 2 minute walk, the hotel will be on your left!</p>
 
-        <p>The directions above assume that the LAX/Metro Transit Center station will be open as planned effective June 6, 2025. If the station is not open by USIF, follow the following directions instead:</p>
-
-        <p>After arriving at LAX, look for the pink LAX Shuttle sign on the Lower/Arrivals Level (regardless of terminal) and board the "Metro C Line (Green Line)" shuttle. Upon arrival at LAX/Aviation station, instead of taking the C line, catch route 232 southbound, "Downtown Long Beach." After about 30 minutes (26 stops), get off at the Pacific Coast Hwy / Beryl stop. Head back towards the intersection and turn left on Beryl St. After about half a mile (about 7-10 minutes of walking), turn left on N Harbor Dr passing Sol Restaurant. After about another 2 minute walk, the hotel will be on your left!</p>
-
-        <p>Please note that these directions will not be usable if the LAX/Metro Transit Center station is open, as LAX announced they will close this shuttle once that occurs. We will update the directions once we have confirmation one way or the other.</p>
+      <p>Alternatively, once at the LAX/Metro Transit Center, catch route 232 southbound. After about 30 minutes (26 stops), get off at the Pacific Coast Hwy / Beryl stop. Head back 
+      towards the intersection and turn left on Beryl St. After about half a mile (about 7-10 minutes of walking), turn left on N Harbor Dr passing Sol Restaurant. After about another 2 minute 
+      walk, the hotel will be on your left!</p>
 
 
       <h3>Rideshare</h3>
