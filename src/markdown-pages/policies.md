@@ -5,7 +5,7 @@ template: page
 ---
 ## Welcome!
 
-Welcome to U.S. IdolFes, or USIF! We are a group of passionate idol fans working to bring idol culture and programming to the US. The primary purpose of USIF is for the attendees to have fun. To make this happen, USIF has established certain rules of conduct. These rules were created to ensure the behavior of any one individual or group of attendees does not disturb the enjoyment of another attendee, nor detract from the relaxed and comfortable atmosphere of the event. To both enjoy the convention to the fullest as well as to ensure the safety of all participants, please comply with staff instructions at all times.
+Welcome to U.S. IdolFes, or USIF! We are a group of passionate idol fans working to bring idol culture and programming to the U.S. The primary purpose of USIF is for the attendees to have fun. To make this happen, USIF has established certain rules of conduct. These rules were created to ensure the behavior of any one individual or group of attendees does not disturb the enjoyment of another attendee, nor detract from the relaxed and comfortable atmosphere of the event. To both enjoy the convention to the fullest as well as to ensure the safety of all participants, please comply with staff instructions at all times.
 
 USIF welcomes everyone; however, the event's management reserves the right to deny or revoke the attendance of any individual, at any time, for any reason. This action may be undertaken when an individual's presence or behavior causes significant interference with event operations or adversely affects the organization's relationship with its guests or with its venue. USIF also reserves the right to amend these rules at any time without prior or posted notice. If you have any questions, please [contact the event staff](/contact) for assistance.
 
@@ -32,7 +32,7 @@ If you feel harassed or see someone else being harassed, you have the following 
 3. Call and/or text the USIF Harassment Hotline during the convention at (424) 231-8815. 
 4. Email us at hr@idolfes.us.
 
-Once notified, USIF staff will take any action necessary to stop the behavior, up to and including badge revocation, expulsion from convention premises, and/or being banned from future IdolFest Foundation events. We will also take steps to help you feel safe again at your request, such as escorting you to a place you feel safe, contacting your friends or family for you, or contacting local law enforcement.
+Once notified, USIF staff will take any action necessary to stop the behavior, up to and including badge revocation, expulsion from convention premises, and/or being banned from future IdolFest Foundation events. We will also take steps to help you feel safe again at your request, such as escorting you to a place you feel safe, contacting your friends or family for you, and/or contacting local law enforcement.
 
 This policy applies without exception to everyone at the convention, including attendees, panelists, vendors, guests, convention staff, and venue staff.
 
@@ -75,6 +75,15 @@ In the case of lost items, please reach out to hotel staff or call the front des
 You must comply with hotel and government rules while on hotel premises. What’s illegal outside the hotel is illegal inside the hotel. Please follow any instructions given to you by members of hotel staff. If you have concerns, contact any USIF staff member.
 
 Do not stick anything to hotel walls. Any unapproved material on hotel walls will be removed, and any damage caused will be the responsibility of the poster. Flyer distributions are allowed as long as they comply with a PG-13 content rating.
+
+## Hallway Lives
+
+We are greatly appreciative of our performing community and love to see you perform! With that, if you are planning on performing a hallway live, please bear the following things in mind:
+
+* You must have a badge to attend U.S. IdolFes; performing a hallway live does not waive this requirement.
+* Keep the volume of your live at an acceptable level; if your live is distracting from or interrupting any programming for the event, our staff reserves the right to ask for the live to quiet down and/or stop.
+* We ask that your hallway live does not block traffic flow for attendees and other hotel guests. If you are blocking this flow, our staff and/or hotel staff will ask you to move and/or stop your live.
+* For any reason, hotel staff may ask you to stop performing. We cannot control these requests from hotel staff, but if you are asked to stop by them please comply with those instructions.
 
 ## Cosplay
 
