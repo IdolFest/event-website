@@ -14,11 +14,11 @@ Hours of Operation:
 
 Schedules:
 
-* Thursday Schedule
-* Friday Schedule
-* Saturday Schedule
-* Sunday Schedule
-* Meet and Greet Schedule
+* [Thursday Schedule](https://idolfes.us/events/thursday)
+* [Friday Schedule](https://idolfes.us/events/friday)
+* [Saturday Schedule](https://idolfes.us/events/saturday)
+* [Sunday Schedule](https://idolfes.us/events/sunday)
+* [Meet and Greet Schedule](https://idolfes.us/events/meet-and-greet-schedule/)
 
 ### Venue Map
 
