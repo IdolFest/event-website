@@ -9,32 +9,29 @@ Masks are not required in any areas this year; however, performers may request t
 
 ﻿﻿Whether the meet and greet is a paid or free meet and greet is at the discretion of each performer.
 
+Vtuber meet and greets for Stellar Verse, VFleet Project, and other associated talents will be occurring courtesy of the organizations aforementioned. All other Vtuber meet and greets will be provided courtesy of OshiSnap. We will make every attempt to keep our list up-to-date with any changes, but please reference the social media of the parties mentioned above for the most up-to-date information.
 
-
-**This list has not yet been updated for U.S. IdolFes 2025;** feel free to check out our 2024 schedule for an idea of how we organize our meet and greets!
-
-# V﻿endor Hall Meet and Greets
+# Meet and Greets (Location TBA)
 
 ### F﻿riday
 
-* 1:30 - 3:00pm: Phoebe
-* 4:30 - 5:30pm: Pan Ranger, Melancholiaah
-* 7:00 - 8:00pm: Taberu Gumi, SHIHORI
+* 1:00 - 2:00 pm: YURAPICO, 溟海オシアナス / Meikai Oceanus
+* 2:30 - 3:30 pm: Stellar Verse Productions
+* 4:00 - 5:30 pm: Non Sweet
+* 6:30 - 7:30 pm: Phoebe
 * 10:30 - 11:30pm: Northern Lights Music Festival Performers
 
 ### Saturday
 
-* 11:00am - 12:00pm: Melancholiaah, Pan Ranger
-* 1:00 - 2:00pm: SHIHORI
-* 3:00 - 4:00pm: Phoebe
-* 5:00 - 6:00pm: Idol Shikkaku
-* 7:00 - 8:00pm: Taberu Gumi, BERRY
-* 9:00 - 10:30pm: Non Sweet
+* 12:45 - 2:15 pm: Non Sweet
+* 3:00 - 4:00 pm: VFleet Project
+* 5:00 - 6:30 pm: Phoebe
+* 7:00 - 8:00 pm: Strawberry🍓Sunday, YURAPICO
 
 ### S﻿unday
 
-* 1﻿1:30am - 1:00pm: Non Sweet
-* 1:30 - 2:30pm: Idol Shikkaku
+* 1﻿1:00 - 12:00 pm: 溟海オシアナス / Meikai Oceanus
+* 1:30 - 2:30pm: Strawberry🍓Sunday
 * 3﻿:00 - 4:00pm: Community Performer Cheki Power Hour!
 
   * All community performers available and willing will be here for one last time to hold meet and greets as well as sell merch and chekis!
@@ -43,45 +40,19 @@ Masks are not required in any areas this year; however, performers may request t
 
 ### Friday
 
-* 5:00 - 5:30pm: Meowgical Rosie, Oyasubunny
-* 6:30 - 7:00pm: Jenni Bon
-* 8:00 - 8:30pm: FLARE
+* 1:00 - 1:45 pm: Jazi Kat, shoyun
+* 4:30 - 5:15 pm: Jyuke, Mai Urania, FLO
+* 7:15 - 8:00 pm: Pan Ranger, Oyasumimi (Cherri and Rose), Cyd/死努ちゃん
 
 ### Saturday
 
-* 12:00 - 12:30pm: Sapphire
-* 2:00 - 2:30pm: Martha
-* 4:00 - 4:30pm: atanadinata, Aqu♡rius
-* 8:00 - 8:30pm: Alice, bunny☆kaisui
-* 10:00 - 10:30pm: Estella!, Chérie Ifẹ
+* 12:30 - 1:15 pm: Pastel Roulette, Irodori Idols
+* 3:15 - 4:15 pm: ADEN
+* 7:00 - 7:45 pm: mspaint palette, Martha, SETXUNA
 
 ### Sunday
 
-* 12:00 - 12:30pm: BOYiSH7
-* 2:30 - 3:00pm: Yumemi夢美
+* 12:00 - 12:45 pm: ILLIXCITE, Jenni Bon
+* 3:00 - 4:00 pm: Italia is Kawaii, DEM☆POP, Aqu♥︎rius
 
-# 2nd Floor (Evergreen) Foyer Meet and Greets
-
-### Friday
-
-* 12:00 - 12:30pm: Martha
-* 7:30 - 8:00pm: Estella!
-
-### Saturday
-
-* 12:30 - 1:00pm: FLARE
-* 1:00 - 1:30pm: Alice
-* 3:00 - 3:30pm: Martha
-* 3:30 - 4:00pm: Oyasubunny
-* 4:00 - 4:30pm: Alice
-* 4:30 - 5:00pm: Aqu♡rius
-* 5:00 - 5:30pm: Meowgical Rosie
-* 5:30 - 6:00pm: BOYiSH7
-* 7:30 - 8:00pm: Chérie Ifẹ
-
-### Sunday
-
-* 12:00 - 12:30pm: Yumemi夢美
-* 12:30 - 1:00pm: BOYiSH7
-* 1:00 - 1:30pm: Estella!
-* 2:00 - 2:30pm: Meowgical Rosie
+  * This meet and greet will take place at the Cheki Power Hour listed above!
