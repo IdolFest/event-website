@@ -7,11 +7,18 @@ U.S. IdolFes is excited to provide a venue for your amazing panels and performan
 
 Hours of Operation:
 
-* Coming soon!
+* Thursday: 5:00 - 7:00 pm **(Registration only)**
+* Friday: 9:00 am - 12:00 am
+* Saturday: 9:30 am - 12:00 am
+* Sunday: 9:30 am - 5:00 pm
 
 Schedules:
 
-* Coming soon!
+* Thursday Schedule
+* Friday Schedule
+* Saturday Schedule
+* Sunday Schedule
+* Meet and Greet Schedule
 
 ### Venue Map
 
