@@ -60,6 +60,24 @@ All changes are subject to the approval of the Department Head for the Events te
 
 Presenters are expected to arrive at their scheduled room for content presentation 15-30 minutes prior to their scheduled start time. This requirement may be superseded by direction from USIF staff, and the most recent guidance should be followed by presenters. Presenters are expected to present their content and not go over the time allotted to them. In severe cases, USIF staff may directly request for the presenter to wrap up their content so that the lineup of content for their room can continue on time.
 
+Compensation policies for presenters are based on whether they are presenting a panel or a performance:
+
+* Panel
+
+  * The applicant will be referred to as Lead Panelist, and all other panelists will be referred to as Co-panelists.
+  * The Lead Panelist and one Co-panelist will receive full badge compensation.
+  * Up to five (5) Co-panelists may receive badges at the Chibi badge price, or 50% off the Silver badge price.
+  * If there are more than seven (7) panelists (Lead Panelist + 6 Co-panelists), all other Co-panelists must purchase a badge at its full price. Badges may be purchased at https://idolfes.us/register.
+* Performance
+
+  * The applicant will be referred to as Lead Performer, and all other performers will be referred to as Co-performers. Other people who attend with the applying performer/group with the intent on assisting them through their performance and/or meet and greet will be referred to as Handlers.
+  * The Lead Performer and up to four (4) Co-performers will receive full badge compensation.
+  * Up to five (5) Co-performers may receive badges at the Chibi badge price, or 50% off the Silver badge price.
+  * If there are more than 10 performers (Lead Performer + 9 Co-performers), all other Co-performers must purchase a badge at its full price. Badges may be purchased at https://idolfes.us/register.
+  * One (1) Handler will receive full badge compensation.
+  * Up to two (2) Handlers may receive badges at the Chibi badge price, or 50% off the Silver badge price.
+  * If there are more than three (3) Handlers, all other Handlers must purchase a badge at its full price. Badges may be purchased at https://idolfes.us/register.
+
 ## Badges
 
 Badges must be visibly displayed on your person while in event space. In case of lost badge, one $20 replacement will be available with presentation of photo ID. Additional replacements will be charged full price.
