@@ -16,7 +16,6 @@ Vtuber meet and greets for Stellar Verse, VFleet Project, and other associated t
 ### F﻿riday
 
 * 1:00 - 2:00 pm: YURAPICO, 溟海オシアナス / Meikai Oceanus
-* 2:30 - 3:30 pm: Stellar Verse Productions
 * 4:00 - 5:30 pm: Non Sweet
 * 6:30 - 7:30 pm: Phoebe
 * 10:30 - 11:30pm: Northern Lights Music Festival Performers
