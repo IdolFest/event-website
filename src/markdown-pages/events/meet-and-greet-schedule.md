@@ -41,7 +41,7 @@ Vtuber meet and greets for Stellar Verse, VFleet Project, and other associated t
 
 * 1:00 - 1:45 pm: Jazi Kat, shoyun
 * 4:30 - 5:15 pm: Jyuke, Mai Urania, FLO
-* 7:15 - 8:00 pm: Pan Ranger, Oyasumimi (Cherri and Rose), Cyd/死努ちゃん
+* 7:15 - 8:00 pm: Pan Ranger, Oyasumimi, Cyd/死努ちゃん
 
 ### Saturday
 
