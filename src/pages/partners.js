@@ -67,37 +67,50 @@ const IndexPage = () => {
         <h3>Prism Sponsors</h3>
         <ul>
           <li>Luigi G</li>
-          <li>Fish & Bird Virtual Planning</li>
-          <li>EggyDrago</li>
+          <li>⛩👻Nara Moore👻⛩</li>
+          <li>DJ Azure</li>
+          <li>Solemn </li>
           <li>hiddennin</li>
-          <li>NaraMoore / 八尺様</li>
-          <li>Mr. Dang</li>        </ul>
+          <li>Stephen Lin</li>
+          <li>12atatosk</li>
+          <li>399-CY (Eggy)</li>
+          <li>Supraluminal</li>
+          <li>tsubasa83 (&lt;3 USIF)</li>
+
+        </ul>
 
         <h3>Gold Sponsors</h3>
         <ul>
-          <li>SakeBomb.</li>
-          <li>J</li>
-          <li>FakeName</li>
-          <li>Oyashiro</li>
-          <li>agri</li>
-          <li>David</li>
-          <li>Instagram.com/neso.sti</li>
-          <li>Baron Senpai</li>
-          <li>vic :PP</li>
-          <li>Austin Montler</li>
-          <li>thatguyjomar</li>
-          <li>mits</li>
-          <li>Kaye</li>
-          <li>Anonymous</li>
-          <li>Birdie</li>
-          <li>Jinx</li>
-          <li>Avalon</li>
-          <li>Rick</li>
-          <li>Leopaul C Del Rosario</li>
-          <li>Forest Swirl</li>
-          <li>DestructiveDave1900</li>
-          <li>Zeta Flare</li>
           <li>SarahLynne</li>
+          <li>piki</li>
+          <li>Zero</li>
+          <li>MegaToast</li>
+          <li>Chewynomnoms</li>
+          <li>Prae4Me</li>
+          <li>Jumpy</li>
+          <li>Avalon</li>
+          <li>Jonathan</li>
+          <li>DAEMON AIMLESS</li>
+          <li>Eightmoe</li>
+          <li>Ama</li>
+          <li>MogMoogle1</li>
+          <li>HitomiOnpa</li>
+          <li>Citrusoft</li>
+          <li>Lycoris Elaine </li>
+          <li>Anonymous</li>
+          <li>Gamer McBaggin</li>
+          <li>naniwazuni</li>
+          <li>Phantomknight</li>
+          <li>Anonymous</li>
+          <li>sepiaholic</li>
+          <li>Isaac</li>
+          <li>Rina Kiden</li>
+          <li>appledress</li>
+          <li>lupemls</li>
+          <li>mintystardust</li>
+          <li>Algebra </li>
+          <li>@Kaigaigrapher</li>
+          <li>Anonymous</li>
         </ul>
 
       </PageContent>
