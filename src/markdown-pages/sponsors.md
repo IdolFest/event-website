@@ -12,6 +12,10 @@ Shout-out to our sponsors who have supported us to help make this event possible
 # 
 Rataoskr
 
+
+We would also like to thank our Prism and Gold sponsors for 2025
+
+
 ## Prism Sponsors
 
 * Luigi G
