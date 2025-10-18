@@ -5,9 +5,12 @@ slug: sponsors
 ---
 Shout-out to our sponsors who have supported us to help make this event possible!
 
-## Sponsor Name
+# Sponsor Name
 
 ![]()
+
+# 
+Rataoskr
 
 ## Prism Sponsors
 
@@ -25,8 +28,8 @@ Shout-out to our sponsors who have supported us to help make this event possible
 ## Gold Sponsors
 
 * SarahLynne
-*  piki
-*  Zero
+* piki
+* Zero
 * MegaToast
 * Chewynomnoms
 * Prae4Me
