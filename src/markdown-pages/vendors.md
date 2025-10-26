@@ -3,13 +3,22 @@ slug: /vendors
 title: Vendors
 template: page
 ---
-Thanks to our amazing vendors from NWIF 2024!
+Thanks to our amazing vendors from USIF 2025!
 
+* Stellar Verse Productions (SVP)
+* Azuremonarch
 * Idol Research Club
-* Dia Splits
-* atanadinata's Design
-* orrikal
+* Bunnysleepover
+* Ivory Ice
+* Kotori's shop by Y
+* Ushiipuriin
+* Yumemi and Melon Fox
+* VFleet Project
+* Asayoru Maid Cafe
+* AppendOrange
+* Artist Collaboration Experience
+* Ruiyune
 
-Below was the vendor map from this year.
+Below is our vendor map!
 
-![](/images/uploads/vendor-map-2024.png)
+![](/images/uploads/vendor-map-2025.png)
