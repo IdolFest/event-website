@@ -7,11 +7,19 @@ Calling all musicians! We're hosting the third annual U.S. IdolFes Grand Prix So
 
 ## Fan Vote and Playlist
 
-The fan vote will not open until October 25. Please check back then!
+The fan vote is now open! Check out the submissions at the links below:
+
+* IDOL RIOT (composed/produced/performed by chérie ifẹ) -  https://www.youtube.com/watch?v=NNv6J9Jg6iQ
+* Star Train (composed/produced/performed by Star) -  https://www.youtube.com/watch?v=arQvPZFixjU
+* YOU ARE THE HERO (composed/produced/performed by Jalisha Paz) -  https://youtu.be/e1LGVozK01E
+* Start:Dash!! (composed/produced by Hiroshi Sasaki, lyrics by Aki Hata, covered by Melodi Bear) -  https://youtu.be/sfH5sXw5qMU
+* 朝焼けのDream (composed/produced by Ritsuko of Kirameki Palettes!, performed by Yvonne of Kirameki Palettes!) -  https://youtu.be/f4fYhZSnIKM
+
+Once you've listened to everything, place your vote [here](https://idolfe.st/grandprixvote)! You can vote for either one or two songs that are your favorite.
 
 ## Application
 
-Send in your submission [here](https://idolfe.st/grandprixapp)!
+The submission period for the Grand Prix Song Contest has closed.
 
 ## General Guidelines
 
