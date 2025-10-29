@@ -11,7 +11,7 @@ Masks are not required in any areas this year; however, performers may request t
 
 Vtuber meet and greets for Stellar Verse, VFleet Project, and other associated talents will be occurring courtesy of the organizations aforementioned. All other Vtuber meet and greets will be provided courtesy of OshiSnap. We will make every attempt to keep our list up-to-date with any changes, but please reference the social media of the parties mentioned above for the most up-to-date information.
 
-# Meet and Greets (Location TBA)
+# Guest Meet and Greets (Redondo Salon 1)
 
 ### F﻿riday
 
@@ -35,7 +35,7 @@ Vtuber meet and greets for Stellar Verse, VFleet Project, and other associated t
 
   * All community performers available and willing will be here for one last time to hold meet and greets as well as sell merch and chekis!
 
-# Community Stage Meet and Greets
+# Community Stage Meet and Greets (Catalina/Bay)
 
 ### Friday
 
