@@ -9,7 +9,7 @@ Masks are not required in any areas this year; however, performers may request t
 
 ﻿﻿Whether the meet and greet is a paid or free meet and greet is at the discretion of each performer.
 
-Vtuber meet and greets for Stellar Verse, VFleet Project, and other associated talents will be occurring courtesy of the organizations aforementioned. All other Vtuber meet and greets will be provided courtesy of OshiSnap. We will make every attempt to keep our list up-to-date with any changes, but please reference the social media of the parties mentioned above for the most up-to-date information.
+Vtuber meet and greets for Stellar Verse, VFleet Project, and other associated talents will be occurring courtesy of the organizations aforementioned. All other Vtuber meet and greets will be provided courtesy of OshiSnap. Please reference the social media of the parties mentioned above for the most up-to-date information.
 
 # Guest Meet and Greets (Redondo Salon 1)
 
@@ -17,14 +17,13 @@ Vtuber meet and greets for Stellar Verse, VFleet Project, and other associated t
 
 * 1:00 - 2:00 pm: YURAPICO, 溟海オシアナス / Meikai Oceanus
 * 4:15 - 5:45 pm: Non Sweet
-* 6:30 - 7:30 pm: Phoebe
+* 6:15 - 7:45 pm: Phoebe
 * 10:30 - 11:30pm: Northern Lights Music Festival Performers
 
 ### Saturday
 
 * 12:45 - 2:15 pm: Non Sweet
-* 3:00 - 4:00 pm: VFleet Project
-* 5:00 - 6:30 pm: Phoebe
+* 4:45 - 6:15 pm: Phoebe
 * 7:00 - 8:00 pm: Strawberry🍓Sunday, YURAPICO
 
 ### S﻿unday
