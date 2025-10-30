@@ -67,6 +67,7 @@ const useStyles = makeStyles(theme => ({
     border: "1px solid #aaa",
     borderRadius: "10px",
     marginBottom: "16px",
+    textAlign: "center",
     padding: "5px 20px",
     "& a": {
       boxShadow: "none",
@@ -105,7 +106,7 @@ const IndexPage = () => {
 
   const firstDayText = query.site.siteMetadata.shortDates
   const now = moment()
-  const firstDay = moment(firstDayText.split(/[-,]/)[0] + firstDayText.split(/[-,]/)[2], "MMM DD YYYY", true)
+  const firstDay = moment(firstDayText.split(/[-,]/)[0].trim() + " " + firstDayText.split(/[-,]/)[2].trim(), "MMM DD YYYY", true)
   const mondayBefore = firstDay.clone().startOf('week').add(1, 'day')
   const days = []
   for (let i = 0; i < homepageData.scheduleDays; i++) {
@@ -120,15 +121,19 @@ const IndexPage = () => {
   if (isLeadup) {
     const theDay = days[0].format('dddd')
     scheduleObj = (
-      <div className={classes.scheduleBanner}>
-        <a href={`/events/${theDay.toLowerCase()}`}>Click here for the {theDay} schedule!</a>
-      </div>)
+      <a href={`/events/${theDay.toLowerCase()}`}>
+        <div className={classes.scheduleBanner} href={`/events/${theDay.toLowerCase()}`}>
+          Click here for the {theDay} schedule!
+        </div>
+      </a>)
   } else if (scheduleDay.length > 0) {
     const theDay = scheduleDay[0].format('dddd')
     scheduleObj = (
-      <div className={classes.scheduleBanner}>
-        <a href={`/events/${theDay.toLowerCase()}`}>Click here for today's schedule!</a>
-      </div>)
+      <a href={`/events/${theDay.toLowerCase()}`}>
+        <div className={classes.scheduleBanner}>
+          Click here for today's schedule!
+        </div>
+      </a>)
   }
   
   
