@@ -18,8 +18,6 @@ Schedules:
 * [Friday Schedule](https://idolfes.us/events/friday)
 * [Saturday Schedule](https://idolfes.us/events/saturday)
 * [Sunday Schedule](https://idolfes.us/events/sunday)
-* [Meet and Greet Schedule](https://idolfes.us/events/meet-and-greet-schedule/)
+* [Meet and Greet Schedule](https://idolfes.us/events/meet-and-greet-schedule/)[](https://idolfes.us/events/meet-and-greet-schedule/)
 
-### Venue Map
-
-Coming soon!
+[Venue Map](https://idolfes.us/about/map/)
