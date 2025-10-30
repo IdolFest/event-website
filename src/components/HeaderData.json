@@ -122,6 +122,10 @@
           "label": "Shop",
           "href": "https://idolfe.st/shop",
           "external": true
+        },
+        {
+          "label": "Map",
+          "href": "/about/map"
         }
       ]
     }
