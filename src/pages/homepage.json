@@ -3,11 +3,6 @@
   "body": "Welcome to U.S. IdolFes, the rebirth of NW IdolFest! We hope you will join us for our first year in sunny California!",
   "registerButtonEnabled": true,
   "feedbackButtonEnabled": false,
-  "buttons": [
-    {
-      "text": "Apply to host a panel!",
-      "href": "https://idolfe.st/panelapp"
-    }
-  ],
+  "buttons": [],
   "scheduleDays": 3
 }
