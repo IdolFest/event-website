@@ -105,9 +105,9 @@
           "href": "/policies"
         },
         {
-          "label": "Partners",
-          "href": "/partners",
-          "disabled": true
+          "label": "Sponsors",
+          "href": "/sponsors",
+          "disabled": false
         },
         {
           "label": "Discord",
