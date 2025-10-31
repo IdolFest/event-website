@@ -5,16 +5,21 @@ slug: sponsors
 ---
 Shout-out to our sponsors who have supported us to help make this event possible!
 
-# Sponsor Name
+# Sponsors
 
-![]()
+![IRIAM](/images/uploads/iriam.png "IRIAM")
 
-# 
-Rataoskr
+[IRIAM](http://us.iriam.com/)
 
+![WOTA SANS FRONTIERES](/images/uploads/wsf.png "WOTA SANS FRONTIERES")
 
-We would also like to thank our Prism and Gold sponsors for 2025.
+[WOTA SANS FRONTIERES](https://www.instagram.com/wotasansfrontieres/)
 
+We would also like to thank our Whale, Prism and Gold sponsors for 2025.
+
+## Whale Sponsors
+
+* Ratatoskr
 
 ## Prism Sponsors
 
