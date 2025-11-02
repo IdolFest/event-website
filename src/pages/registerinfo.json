@@ -22,7 +22,7 @@
     {
       "badgeName": "Saturday",
       "badgeKey": "badge-saturday",
-      "onSale": true,
+      "onSale": false,
       "hasTax": false,
       "price": "50",
       "tierName": "Bronze",
@@ -46,7 +46,7 @@
     {
       "badgeName": "Full Weekend",
       "badgeKey": "badge-attendee",
-      "onSale": true,
+      "onSale": false,
       "hasTax": false,
       "price": "<s>90</s> 75",
       "tierName": "Silver",
