@@ -28,11 +28,18 @@ Vtuber meet and greets for Stellar Verse, VFleet Project, and other associated t
 ### S﻿unday
 
 * 1﻿1:00 - 12:00 pm: 溟海オシアナス / Meikai Oceanus
-* 12:00 pm - 1:00 pm: Northern Lights Music Festival Performers
 * 1:30 - 2:30pm: Strawberry🍓Sunday
 * 3﻿:00 - 4:00pm: Community Performer Cheki Power Hour!
 
   * All community performers available and willing will be here for one last time to hold meet and greets as well as sell merch and chekis!
+
+# Meet and Greets (Coral Foyer)
+
+### Sunday
+
+* 12:00 - 1:00 pm: Northern Lights Music Festival Performers
+
+(Note: the Coral Foyer is the area outside of the Vendor Hall and Registration.)
 
 # Community Stage Meet and Greets (Catalina/Bay)
 
