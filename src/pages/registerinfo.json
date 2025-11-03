@@ -1,5 +1,5 @@
 {
-  "registrationEnabled": true,
+  "registrationEnabled": false,
   "showBadgePickupHours": true,
   "badgePickupHoursText": "Thursday, October 30: 5-7 PM\nFriday, October 31: 10 AM-7 PM\nSaturday, November 1: 9:30 AM-7 PM\nSunday, November 2: 9:30 AM-12 PM ",
   "showBadgePricingNote": false,
@@ -34,7 +34,7 @@
     {
       "badgeName": "Sunday",
       "badgeKey": "badge-sunday",
-      "onSale": true,
+      "onSale": false,
       "hasTax": false,
       "price": "30",
       "tierName": "Bronze",
@@ -109,7 +109,7 @@
     {
       "badgeName": "6 to 12 Badge",
       "badgeKey": "badge-6-to-12",
-      "onSale": true,
+      "onSale": false,
       "hasTax": false,
       "price": "<s>45</s> 30",
       "tierName": "Chibi",
@@ -122,7 +122,7 @@
     {
       "badgeName": "Spirit Badge",
       "badgeKey": "badge-spirit",
-      "onSale": true,
+      "onSale": false,
       "hasTax": false,
       "price": "25",
       "tierName": "Dekimasen",
