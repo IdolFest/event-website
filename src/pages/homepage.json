@@ -1,13 +1,8 @@
 {
   "title": "Welcome to U.S. IdolFes!",
   "body": "Welcome to U.S. IdolFes, the rebirth of NW IdolFest! We hope you will join us for our first year in sunny California!",
-  "registerButtonEnabled": true,
+  "registerButtonEnabled": false,
   "feedbackButtonEnabled": false,
-  "buttons": [
-    {
-      "text": "View the map",
-      "href": "https://idolfes.us/about/map"
-    }
-  ],
+  "buttons": [],
   "scheduleDays": 3
 }
