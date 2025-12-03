@@ -3,7 +3,6 @@ backend:
   branch: main
   repo: IdolFest/event-website
   cms_label_prefix: web-editor/
-  # Comment this next line out to use this locally
   base_url: https://c03m0wt68h.execute-api.us-east-1.amazonaws.com
   auth_endpoint: /auth
 site_domain: idolfes.us
