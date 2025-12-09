@@ -37,12 +37,15 @@ const HotelPage = () => {
       site {
         siteMetadata {
           longDates
+          venue
         }
       }            
     }
   `)
 
-  const dates = site.siteMetadata.longDates
+  const metadata = site.siteMetadata
+  const dates = metadata.longDates
+  const venue = metadata.venue
   const isOpen = bookingStatus === "open"
   const isClosed = bookingStatus === "closed"
 
@@ -82,7 +85,7 @@ const HotelPage = () => {
           alt='' // This is a presentational image, so the alt should be an empty string
         />
 
-        <p>U.S. IdolFes will be held on {dates}, at the Sonesta Redondo Beach &amp; Marina. {hotelNote || ''}</p>
+        <p>U.S. IdolFes will be held on {dates}, at the {venue}. {hotelNote || ''}</p>
         <p>Details on how to access the venue are available below.</p>
 
         <CenteredBox>
