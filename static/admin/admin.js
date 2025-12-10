@@ -152,6 +152,54 @@ var GuestPreview = createClass({
 })
 CMS.registerPreviewTemplate("guests", GuestPreview)
 
+var HotelPreview = createClass({
+    render: function() {
+        const entry = this.props.entry.toJS()
+        const data = entry.data
+        const bookingStatus = data.bookingStatus
+        const isOpen = bookingStatus === 'open'
+        const isClosed = bookingStatus === 'closed'
+        if (!isOpen) {
+            let message = "Online hotel booking is now closed. Please [contact us] if you would like assistance booking a room at our discounted rates."
+            if (!isClosed) {
+                message = "Online hotel booking is not yet available. Stay tuned, we'll announce hotels soon!"
+            }
+            return h('div', {},
+                customToolbar(entry),
+                h('h1', {}, "Hotel"),
+                h('p', {}, message)
+            )
+        }
+        const picture = this.props.getAsset(data.hotelPicture).toString()
+        const hotelNote = data.hotelNote || ""
+        const bookingLink = data.bookingLink
+        const bookingNote = data.bookingNote || ""
+        const roomRates = data.roomRates
+        const directions = data.directions
+        return h('div', {},
+            customToolbar(entry),
+            h('h1', {}, "Hotel"),
+            h('img', {src: picture}),
+            h('p', {}, "U.S. IdolFes will be held on [dates], at the [venue]. " + hotelNote),
+            h('p', {}, "Details on how to access the venue are available below."),
+            roomRates.map(room => h('div', {},
+                room.label + " : " + room.price
+            )),
+            h('div', {}, h('sup', {}, "†"), "Taxes and fees not included in price."),
+            h('button', {href: bookingLink}, "Book online"),
+            h('div', {}, bookingNote),
+            h('h1', {}, "[ Map ]"),
+            h('h2', {}, "How to get here"),
+            directions.map(option => h('div', {},
+                h('h3', {}, option.method),
+                h('p', {}, option.body)
+            ))
+        )
+    }
+})
+
+CMS.registerPreviewTemplate("hotel", HotelPreview)
+
 var RegisterPreview = createClass({
     render: function() {
         const data = this.props.entry.toJS().data
