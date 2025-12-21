@@ -123,14 +123,18 @@ const HotelPage = () => {
           <ResponsiveMap>
             <iframe title="Hotel map" maxwidth="600" height="450" style={{ border: 0 }} loading="lazy" allowFullScreen src={mapLink}></iframe>
           </ResponsiveMap>
-          <h2>How to get here</h2> {/* I'd rather let this heading be part of body, but it wouldn't be centered */}
+          <h2>How to get here</h2>
         </CenteredBox>
 
         {directions.map(option => (
-          <p>
+          <>
             <h3>{option.method}</h3>
-            {option.body}
-          </p>
+            {
+              option.body.split(/\r?\n/).map(paragraph => (
+                <p>{paragraph}</p>
+              ))
+            }
+          </>
         ))}
       </PageContent>
     </Layout>
