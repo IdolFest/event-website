@@ -48,6 +48,7 @@ const HotelPage = () => {
   const venue = metadata.venue
   const isOpen = bookingStatus === "open"
   const isClosed = bookingStatus === "closed"
+  const isWaiting = bookingStatus === "waiting"
 
   if (!isOpen) {
     return (
@@ -55,16 +56,16 @@ const HotelPage = () => {
         <Seo title="Hotel" />
         <PageHeader title="Hotel" />
         <PageContent>
-          {isClosed ? (
+          {isClosed && (
             <p>
               <br />
               Online hotel booking is now closed. Please <Link to="/contact">contact us</Link> if you would like assistance booking a room at our discounted rates.
               <br />
             </p>
-          ) : (
+          )}
+          {isWaiting && (
             <p>
               <br />
-              {/* This message also gets displayed if the booking status is invalid */}
               Online hotel booking is not yet available. Stay tuned, we'll announce hotels soon!
               <br />
             </p>

@@ -159,9 +159,12 @@ var HotelPreview = createClass({
         const bookingStatus = data.bookingStatus
         const isOpen = bookingStatus === 'open'
         const isClosed = bookingStatus === 'closed'
+        const isWaiting = bookingStatus === 'waiting'
         if (!isOpen) {
-            let message = "Online hotel booking is now closed. Please [contact us] if you would like assistance booking a room at our discounted rates."
-            if (!isClosed) {
+            let message
+            if (isClosed) {
+                message = "Online hotel booking is now closed. Please [contact us] if you would like assistance booking a room at our discounted rates."
+            } else if (isWaiting) {
                 message = "Online hotel booking is not yet available. Stay tuned, we'll announce hotels soon!"
             }
             return h('div', {},
