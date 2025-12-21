@@ -97,41 +97,6 @@ collections:
 
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "hotel-pages" # Temporary name
-    label: "Hotel Pages"
-    label_singular: "Hotel Page"
-    files:
-      - label: "Hotel"
-        name: "hotel"
-        file: "src/pages/hotelinfo.json"
-        extension: "json"
-        description: "Booking status, hotel location, room types and pricing."
-        fields:
-          - label: "Booking status"
-            name: "bookingStatus"
-            widget: "select"
-            options:
-              - { label: "Open", value: "open" }
-              - { label: "Waiting", value: "waiting" }
-              - { label: "Closed", value: "closed" }
-          - {label: "Booking Link", name: "bookingLink", widget: "string"}
-          - {label: "Booking Note", name: "bookingNote", widget: "text", required: false, hint: "Additional notes about booking (e.g how to book by phone.)"}
-          - {label: "Hotel Picture", name: "hotelPicture", widget: "image", hint: "Presentational image of the hotel."}
-          - {label: "Hotel Note", name: "hotelNote", widget: "text", required: false, hint: "Additional notes about the hotel (e.g parking price.)"}
-          - label: "Room Rates"
-            name: "roomRates"
-            widget: "list"
-            fields:
-              - {label: "Room type", name: "label", widget: "string"}
-              - {label: "Price per night", name: "price", widget: "number", min: 0}
-          - {label: "Map link", name: "mapLink", widget: "string"}
-          - label: "How to get here"
-            name: "directions"
-            widget: "list"
-            fields:
-              - {label: "Method", name: "method", widget: "string"}
-              - {label: "Body", name: "body", widget: "text"}
-
   - label: "Site Settings & Navigation"
     name: "general"
     files: 
@@ -204,6 +169,37 @@ collections:
             - {label: "Tier Name", name: "tierName", widget: "string"}
             - {label: "Desciption", name: "description", widget: "string"}
             - {label: "Perks", name: "perks", widget: "list"}
+
+    - label: "Hotel"
+      name: "hotel"
+      file: "src/pages/hotelinfo.json"
+      extension: "json"
+      description: "Booking status, hotel location, room types and pricing."
+      fields:
+        - label: "Booking status"
+          name: "bookingStatus"
+          widget: "select"
+          options:
+            - { label: "Open", value: "open" }
+            - { label: "Closed (pre-festival)", value: "waiting" }
+            - { label: "Closed (post-festival)", value: "closed" }
+        - {label: "Booking Link", name: "bookingLink", widget: "string"}
+        - {label: "Booking Note", name: "bookingNote", widget: "text", required: false, hint: "Additional notes about booking (e.g how to book by phone.)"}
+        - {label: "Hotel Picture", name: "hotelPicture", widget: "image", hint: "Presentational image of the hotel."}
+        - {label: "Hotel Note", name: "hotelNote", widget: "text", required: false, hint: "Additional notes about the hotel (e.g parking price.)"}
+        - label: "Room Rates"
+          name: "roomRates"
+          widget: "list"
+          fields:
+            - {label: "Room type", name: "label", widget: "string"}
+            - {label: "Price per night", name: "price", widget: "number", min: 0}
+        - {label: "Map link", name: "mapLink", widget: "string"}
+        - label: "How to get here"
+          name: "directions"
+          widget: "list"
+          fields:
+            - {label: "Method", name: "method", widget: "string"}
+            - {label: "Body", name: "body", widget: "text"}
 
     - label: "Navigation Items"
       label_singular: "Navigation Item"
