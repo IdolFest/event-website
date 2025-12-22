@@ -1,7 +1,7 @@
 backend:
   name: github
-  branch: scratch
-  repo: SuperHatGuy/idolfest-event-website
+  branch: main
+  repo: IdolFest/event-website
   cms_label_prefix: web-editor/
   base_url: https://c03m0wt68h.execute-api.us-east-1.amazonaws.com
   auth_endpoint: /auth
