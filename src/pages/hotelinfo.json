@@ -1,0 +1,32 @@
+{
+  "bookingStatus": "closed",
+  "bookingLink": "https://www.sonesta.com/sonesta-hotels-resorts/ca/redondo-beach/sonesta-redondo-beach-marina?isGroupCode=true&groupCode=G103025IDOL&checkin=2025-10-30&checkout=2025-11-02",
+  "bookingNote": "If you prefer to book by phone, you can call the hotel toll-free at 310-318-8888 and reference the group code \"G103025IDOL\".",
+  "hotelPicture": "/images/uploads/hotel.jpeg",
+  "hotelNote": "Parking at the hotel is $40 per vehicle.",
+  "roomRates": [
+    {
+      "label": "Standard King",
+      "price": 199
+    },
+    {
+      "label": "Double Queen",
+      "price": 199
+    }
+  ],
+  "mapLink": "https://www.google.com/maps/embed/v1/place?q=place_id:ChIJn2IUCKC0woARmZBXFBOsAz0&key=AIzaSyDk8pOuoUbrYKocNBn6QzLe9j-bUAx7GvA",
+  "directions": [
+    {
+      "method": "Bus",
+      "body": "The hotel is accessible via Beach City Transit (BCT)'s route 109 southbound bus line, \"LAX City Bus Center - Redondo Beach Riviera Village\". The hotel is 2 minutes from the Beryl St. / Harbor Dr. stop. It is also accessible via Metro's route 232 southbound bus line, \"LAX City Bus Center - Long Beach\".\nAfter arriving at LAX, look for the pink LAX Shuttle sign on the Lower/Arrivals Level (regardless of terminal) and board the Metro Connector Shuttle, taking you to the LAX/Metro Transit Center. Once there, catch route 109 southbound. After about 30 minutes (27 stops), get off at the Beryl St. / Harbor Dr. stop. Walk back towards the intersection, then turn left passing Sol Restaurant. After about a 2 minute walk, the hotel will be on your left!\nAlternatively, once at the LAX/Metro Transit Center, catch route 232 southbound. After about 30 minutes (26 stops), get off at the Pacific Coast Hwy / Beryl stop. Head back towards the intersection and turn left on Beryl St. After about half a mile (about 7-10 minutes of walking), turn left on N Harbor Dr passing Sol Restaurant. After about another 2 minute walk, the hotel will be on your left!"
+    },
+    {
+      "method": "Rideshare",
+      "body": "Most rideshare services will take about a 30 minute drive from the airport to the hotel. Average prices range from $30-60. While we cannot directly coordinate or facilitate this, we highly encourage attendees arriving around the same time that feel comfortable to share a rideshare vehicle to help defray the cost if choosing this method."
+    },
+    {
+      "method": "Driving",
+      "body": "Drive on CA-1S. CA-1S will turn slightly right and become Pacific Coast Hwy. After about 0.5 miles, turn right on N Catalina Ave, then turn right again to stay on N Catalina Ave. After another 0.5 miles, turn right onto Beryl St and then turn left onto N Harbor Dr. The hotel will be on your left!"
+    }
+  ]
+}
