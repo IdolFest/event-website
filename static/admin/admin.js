@@ -168,7 +168,7 @@ var HotelPreview = createClass({
                 message = "Online hotel booking is not yet available. Stay tuned, we'll announce hotels soon!"
             }
             return h('div', {},
-                customToolbar(entry),
+                customToolbar(entry, "/hotel"),
                 h('h1', {}, "Hotel"),
                 h('p', {}, message)
             )
@@ -180,7 +180,7 @@ var HotelPreview = createClass({
         const roomRates = data.roomRates
         const directions = data.directions
         return h('div', {},
-            customToolbar(entry),
+            customToolbar(entry, "/hotel"),
             h('h1', {}, "Hotel"),
             h('img', {src: picture}),
             h('p', {}, "U.S. IdolFes will be held on [dates], at the [venue]. " + hotelNote),
