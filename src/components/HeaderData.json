@@ -89,7 +89,8 @@
         },
         {
           "label": "Volunteer",
-          "href": "/volunteer"
+          "href": "/volunteer",
+          "disabled": true
         },
         {
           "label": "Blog",
