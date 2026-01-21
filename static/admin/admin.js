@@ -252,7 +252,7 @@ var HomepagePreview = createClass({
     render: function() {
         const entry = this.props.entry.toJS()
         const data = entry.data
-        let regBtn = h()
+        let regBtn = h('div', {})
         let btns = data.buttons.map(b => h('button',{href:b.href}, b.text))
         if (data.registerButtonEnabled) {
             regBtn = h('button', {className: "reg-button"}, 'Buy a Badge')
