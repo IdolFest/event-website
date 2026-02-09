@@ -5,7 +5,7 @@
   "showBadgePricingNote": false,
   "badgePricingHoursText": "Silver badges decrease in price as the weekend goes on.\n\nFriday (Full Weekend): $90\nSaturday (Saturday + Sunday): $75\nSunday: Unavailable, please purchase a Bronze badge for Sunday!",
   "regClosedHeading": "Thank you for attending U.S. IdolFes 2025!",
-  "regClosedText": "Registration is closed because USIF 2025 is now over. Thank you for making our first convention in CA a huge success! Sign up for our email list below to get notified when our next event will be!",
+  "regClosedText": "Registration is closed because USIF 2025 is now over. Thank you for making our first convention in CA a huge success!",
   "allBadgeTiers": [
     {
       "badgeName": "Friday",
