@@ -65,7 +65,7 @@ collections:
   - name: "guests"
     label: "Guests"
     label_singular: "Guest"
-    folder: "src/markdown-pages/guests/2025"
+    folder: "src/markdown-pages/guests/2026"
     # This is where it's stored in the repo
     media_folder: "/static/images/guests"
     # This is where it is url-wise
