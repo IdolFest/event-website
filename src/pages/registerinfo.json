@@ -4,13 +4,13 @@
   "badgePickupHoursText": "Thursday, October 30: 5-7 PM\nFriday, October 31: 10 AM-7 PM\nSaturday, November 1: 9:30 AM-7 PM\nSunday, November 2: 9:30 AM-12 PM ",
   "showBadgePricingNote": false,
   "badgePricingHoursText": "Silver badges decrease in price as the weekend goes on.\n\nFriday (Full Weekend): $90\nSaturday (Saturday + Sunday): $75\nSunday: Unavailable, please purchase a Bronze badge for Sunday!",
-  "regClosedHeading": "Thank you for attending U.S. IdolFes 2025!",
-  "regClosedText": "Registration is closed because USIF 2025 is now over. Thank you for making our first convention in CA a huge success!",
+  "regClosedHeading": "Registration for USIF 2026 coming soon!",
+  "regClosedText": "Registration for USIF 2026 will open in the near future. Check back soon, and keep an eye on social media!\n",
   "allBadgeTiers": [
     {
       "badgeName": "Friday",
       "badgeKey": "badge-friday",
-      "onSale": false,
+      "onSale": true,
       "hasTax": false,
       "price": "45",
       "tierName": "Bronze",
@@ -22,7 +22,7 @@
     {
       "badgeName": "Saturday",
       "badgeKey": "badge-saturday",
-      "onSale": false,
+      "onSale": true,
       "hasTax": false,
       "price": "50",
       "tierName": "Bronze",
@@ -34,7 +34,7 @@
     {
       "badgeName": "Sunday",
       "badgeKey": "badge-sunday",
-      "onSale": false,
+      "onSale": true,
       "hasTax": false,
       "price": "30",
       "tierName": "Bronze",
@@ -46,7 +46,7 @@
     {
       "badgeName": "Full Weekend",
       "badgeKey": "badge-attendee",
-      "onSale": false,
+      "onSale": true,
       "hasTax": false,
       "price": "<s>90</s> 75",
       "tierName": "Silver",
@@ -59,7 +59,7 @@
     {
       "badgeName": "Sponsor",
       "badgeKey": "badge-sponsor",
-      "onSale": false,
+      "onSale": true,
       "hasTax": false,
       "price": "150",
       "tierName": "Gold",
@@ -79,9 +79,9 @@
     {
       "badgeName": "Super Sponsor",
       "badgeKey": "badge-supersponsor",
-      "onSale": false,
+      "onSale": true,
       "hasTax": false,
-      "price": "900",
+      "price": "925",
       "tierName": "Prism",
       "description": "Everything in Gold, plus:",
       "perks": [
@@ -109,7 +109,7 @@
     {
       "badgeName": "6 to 12 Badge",
       "badgeKey": "badge-6-to-12",
-      "onSale": false,
+      "onSale": true,
       "hasTax": false,
       "price": "<s>45</s> 30",
       "tierName": "Chibi",
@@ -122,7 +122,7 @@
     {
       "badgeName": "Spirit Badge",
       "badgeKey": "badge-spirit",
-      "onSale": false,
+      "onSale": true,
       "hasTax": false,
       "price": "25",
       "tierName": "Dekimasen",
