@@ -143,19 +143,28 @@ collections:
             - {label: "Button Text", name: "text", widget: "string"}
             - {label: "Link URL", name: href, widget: "string" }
         - {label: "Number of event schedule days", name: "scheduleDays", widget: "number"}
+
     - label: "Registration"
       name: "registration"
       file: "src/pages/registerinfo.json"
       extension: "json"
       description: "Enable or disable registration, set badge prices, etc"
       fields: 
-        - {label: "Registration Enabled", name: "registrationEnabled", widget: "boolean"}
+        - label: "Registration Status"
+          name: "registrationStatus"
+          widget: "select"
+          options:
+            - { label: "Open", value: "open" }
+            - { label: "Closed (pre-festival)", value: "waiting" }
+            - { label: "Closed (post-festival)", value: "closed" }
         - {label: "Show Badge Pickup Text", name: "showBadgePickupHours", widget: "boolean"}
         - {label: "Badge Pickup Text (html ok)", name: "badgePickupHoursText", widget: "text"}
         - {label: "Show Weekend Pricing Text", name: "showBadgePricingNote", widget: "boolean"}
         - {label: "Weekend Pricing Text (html ok)", name: "badgePricingHoursText", widget: "text"}
-        - {label: "Heading to show when registration closed", name: "regClosedHeading", widget: "string"}
-        - {label: "Text to show when registration closed", name: "regClosedText", widget: "text"}
+        - {label: "Heading (closed pre-festival)", name: "regClosedWaitingHeading", widget: "string"}
+        - {label: "Text (closed pre-festival)", name: "regClosedWaitingText", widget: "text"}
+        - {label: "Heading (closed post-festival)", name: "regClosedHeading", widget: "string"}
+        - {label: "Text (closed post-festival)", name: "regClosedText", widget: "text"}
 
         - label: Badge Tiers
           name: allBadgeTiers

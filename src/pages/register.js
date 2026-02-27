@@ -25,7 +25,7 @@ import { styled, makeStyles } from '@material-ui/styles'
 import { navigate, Link } from 'gatsby'
 import RegistrationTier from '@components/registrationTier'
 import registerInfo from './registerinfo.json'
-const {allBadgeTiers, registrationEnabled, showBadgePricingNote, showBadgePickupHours, badgePickupHoursText, badgePricingHoursText, regClosedHeading, regClosedText } = registerInfo
+const {allBadgeTiers, registrationStatus, showBadgePricingNote, showBadgePickupHours, badgePickupHoursText, badgePricingHoursText, regClosedWaitingHeading, regClosedWaitingText, regClosedHeading, regClosedText } = registerInfo
 
 let lambdaUrl
 
@@ -470,11 +470,29 @@ const ClosedRegisterPage = () => {
   )
 }
 
+const ClosedWaitingRegisterPage = () => {
+  return (
+    <Layout>
+      <Seo title="Register" />
+      <Hero header={regClosedWaitingHeading} />
+      <PageContent>
+        <p dangerouslySetInnerHTML={{__html: regClosedWaitingText}}></p>
+        <NewsletterSignup />
+      </PageContent>
+    </Layout>
+  )
+}
+
 const RegisterPage = () => {
-  if (registrationEnabled) {
+  const isOpen = registrationStatus === "open" // Registration is open
+  const isClosed = registrationStatus === "closed" // Closed post-festival
+  const isWaiting = registrationStatus === "waiting" // Closed pre-festival
+  if (isOpen) {
     return <OpenRegisterPage />
-  } else {
+  } else if (isClosed) {
     return <ClosedRegisterPage />
+  } else if (isWaiting) {
+    return <ClosedWaitingRegisterPage />
   }
 }
 
