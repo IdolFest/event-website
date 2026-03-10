@@ -206,9 +206,12 @@ CMS.registerPreviewTemplate("hotel", HotelPreview)
 var RegisterPreview = createClass({
     render: function() {
         const data = this.props.entry.toJS().data
+        const isOpen = data.registrationStatus === "open"
+        const isClosed = data.registrationStatus === "closed"
+        const isWaiting = data.registrationStatus === "waiting"
         let regPageItself
         let preStuff
-        if (data.registrationEnabled) {
+        if (isOpen) {
             let prestuff1, prestuff2
             if (data.showBadgePickupHours) {
                 prestuff1 = h('div', {className: "badge-text"}, h('h4', {}, 'Badge Pick-Up Hours'), 
@@ -231,10 +234,15 @@ var RegisterPreview = createClass({
                         h('p', {dangerouslySetInnerHTML: {__html: tier.description}}),
                         h('ul', {}, tier.perks.map(p => h('li', {}, p)))))),
                     h('div', {className: "dummy-container"}, '[ Register Form ]'))
-        } else {
+        } else if (isClosed) {
             regPageItself = h('div', {}, 
                 h('h1', {}, data.regClosedHeading),
                 h('div', {dangerouslySetInnerHTML:{__html: data.regClosedText}}),
+                h('div', {className: "dummy-container"}, '[ Email Subscription Area ]'))
+        } else if (isWaiting) {
+            regPageItself = h('div', {}, 
+                h('h1', {}, data.regClosedWaitingHeading),
+                h('div', {dangerouslySetInnerHTML:{__html: data.regClosedWaitingText}}),
                 h('div', {className: "dummy-container"}, '[ Email Subscription Area ]'))
         }
         return h('div', {}, 
