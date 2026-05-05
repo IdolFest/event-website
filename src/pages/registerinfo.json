@@ -1,13 +1,8 @@
 {
-  "registrationStatus": "waiting",
-  "showBadgePickupHours": true,
-  "badgePickupHoursText": "Thursday, October 30: 5-7 PM\nFriday, October 31: 10 AM-7 PM\nSaturday, November 1: 9:30 AM-7 PM\nSunday, November 2: 9:30 AM-12 PM ",
-  "showBadgePricingNote": false,
-  "badgePricingHoursText": "Silver badges decrease in price as the weekend goes on.\n\nFriday (Full Weekend): $90\nSaturday (Saturday + Sunday): $75\nSunday: Unavailable, please purchase a Bronze badge for Sunday!",
-  "regClosedWaitingHeading": "Registration for USIF 2026 coming soon!",
-  "regClosedWaitingText": "Registration for USIF 2026 will open in the near future. Check back soon, and keep an eye on social media!\n",
   "regClosedHeading": "Thank you for attending U.S IdolFes 2025!",
+  "registrationStatus": "open",
   "regClosedText": "Registration is closed because USIF 2025 is now over. Thank you for making our first convention in CA a huge success!\n",
+  "showBadgePickupHours": true,
   "allBadgeTiers": [
     {
       "badgeName": "Friday",
@@ -147,5 +142,10 @@
       "badgeKey": "you-cant-buy-this",
       "hasTax": false
     }
-  ]
+  ],
+  "showBadgePricingNote": false,
+  "regClosedWaitingHeading": "Registration for USIF 2026 coming soon!",
+  "badgePricingHoursText": "Silver badges decrease in price as the weekend goes on.\n\nFriday (Full Weekend): $90\nSaturday (Saturday + Sunday): $75\nSunday: Unavailable, please purchase a Bronze badge for Sunday!",
+  "regClosedWaitingText": "Registration for USIF 2026 will open in the near future. Check back soon, and keep an eye on social media!\n",
+  "badgePickupHoursText": "Thursday, October 30: 5-7 PM\nFriday, October 31: 10 AM-7 PM\nSaturday, November 1: 9:30 AM-7 PM\nSunday, November 2: 9:30 AM-12 PM "
 }
