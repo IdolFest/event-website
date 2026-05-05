@@ -29,18 +29,6 @@
       ]
     },
     {
-      "badgeName": "Sunday",
-      "badgeKey": "badge-sunday",
-      "onSale": true,
-      "hasTax": false,
-      "price": "30",
-      "tierName": "Bronze",
-      "description": "This badge grants:",
-      "perks": [
-        "Access to events at USIF on Sunday"
-      ]
-    },
-    {
       "badgeName": "Full Weekend",
       "badgeKey": "badge-attendee",
       "onSale": true,
@@ -51,6 +39,18 @@
       "perks": [
         "Access to all events at USIF",
         "USIF Discord role"
+      ]
+    },
+    {
+      "badgeName": "Sunday",
+      "badgeKey": "badge-sunday",
+      "onSale": true,
+      "hasTax": false,
+      "price": "30",
+      "tierName": "Bronze",
+      "description": "This badge grants:",
+      "perks": [
+        "Access to events at USIF on Sunday"
       ]
     },
     {
