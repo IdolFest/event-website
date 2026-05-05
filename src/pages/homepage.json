@@ -1,7 +1,7 @@
 {
   "title": "Welcome to U.S. IdolFes!",
-  "body": "Thank you for joining us for U.S. IdolFes, the rebirth of NW IdolFest in Sunny California! ",
-  "registerButtonEnabled": false,
+  "body": "\"Welcome to U.S. IdolFes, the rebirth of NW IdolFest! We hope you will join us for our return to sunny California!",
+  "registerButtonEnabled": true,
   "feedbackButtonEnabled": false,
   "buttons": [],
   "scheduleDays": 3
