@@ -33,7 +33,7 @@
       "badgeKey": "badge-attendee",
       "onSale": true,
       "hasTax": false,
-      "price": "<s>90</s> 75",
+      "price": "85",
       "tierName": "Silver",
       "description": "This badge grants:",
       "perks": [
@@ -108,7 +108,7 @@
       "badgeKey": "badge-6-to-12",
       "onSale": true,
       "hasTax": false,
-      "price": "<s>45</s> 30",
+      "price": "45",
       "tierName": "Chibi",
       "description": "Attendees 6-12 can register for half price. Must be accompanied by an adult with a paid badge.",
       "perks": [
