@@ -90,7 +90,7 @@
         {
           "label": "Volunteer",
           "href": "/volunteer",
-          "disabled": true
+          "disabled": false
         },
         {
           "label": "Blog",
