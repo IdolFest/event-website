@@ -63,7 +63,7 @@ const tshirtSizes = ['XS', 'S', 'M', 'L', 'XL', '2XL', '3XL', '4XL']
 
 function badgeDropdownText(badge) {
   // remove the <strike> tags from our early bird reg
-  const badgePrice = badge.price.replace("</s>", "</strike>").split("</strike> ").slice(-1)[0]
+  const badgePrice = badge.price.replace("</strike>", "</s>").split("</s>").slice(-1)[0].trimStart()
   if (badge.tierName) {
     if (badge.hasTax) {
       return `${badge.tierName} - ${badge.badgeName} ($${badgePrice} + tax)`
