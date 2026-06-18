@@ -73,7 +73,12 @@
         {
           "label": "Virtual Stardust",
           "disabled": true,
-          "href": "/virtual-stardust"
+          "href": "events/virtual-stardust"
+        },
+        {
+          "label": "Community Stage",
+          "disabled": true,
+          "href": "/events/community-stage"
         }
       ],
       "external": false,
