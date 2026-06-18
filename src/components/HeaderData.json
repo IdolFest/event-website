@@ -69,6 +69,11 @@
           "label": "Grand Prix Song Contest",
           "href": "/events/grandprix",
           "disabled": true
+        },
+        {
+          "label": "Virtual Stardust",
+          "disabled": true,
+          "href": "/virtual-stardust"
         }
       ],
       "external": false,
