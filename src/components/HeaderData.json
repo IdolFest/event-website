@@ -53,7 +53,17 @@
         {
           "label": "Northern Lights",
           "href": "/events/northern-lights-music-festival",
-          "disabled": true
+          "disabled": false
+        },
+        {
+          "label": "Virtual Stardust",
+          "disabled": false,
+          "href": "events/virtual-stardust"
+        },
+        {
+          "label": "Community Stage",
+          "disabled": false,
+          "href": "/events/community-stage"
         },
         {
           "label": "Masquerade",
@@ -69,20 +79,10 @@
           "label": "Grand Prix Song Contest",
           "href": "/events/grandprix",
           "disabled": true
-        },
-        {
-          "label": "Virtual Stardust",
-          "disabled": true,
-          "href": "events/virtual-stardust"
-        },
-        {
-          "label": "Community Stage",
-          "disabled": true,
-          "href": "/events/community-stage"
         }
       ],
       "external": false,
-      "disabled": true
+      "disabled": false
     },
     {
       "label": "Vendors",
