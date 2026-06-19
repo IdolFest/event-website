@@ -11,4 +11,8 @@ Due to popular demand, U.S. Idolfes is opening a brand-new showcase just for Vir
 
 - - -
 
-Applications for U.S. Idolfes 2026 Virtual Stardust will open June 19 at 5 P.M. Pacific Time.
+Applications for U.S. Idolfes 2026 Virtual Stardust are now open!
+
+[Apply Here](https://forms.gle/TjqKANw6DdXmdquY9)
+
+Applications will remain open through July 17 at 11:59pm Pacific Time.
