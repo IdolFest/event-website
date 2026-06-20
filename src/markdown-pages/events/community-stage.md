@@ -11,4 +11,8 @@ Welcome to the U.S. Idolfes Community Stage! The Community Stage allows performe
 
 - - -
 
-Applications for U.S. Idolfes 2026 Community Stage will open June 20 at 5 P.M. Pacific Time.
+Applications for the 2026 Community Stage are now open!
+
+[Apply Here](https://forms.gle/LqdBLkw8kiBXG1fB8)
+
+Applications will remain open through July 17 at 11:59pm Pacific Time.
