@@ -63,7 +63,7 @@ const tshirtSizes = ['XS', 'S', 'M', 'L', 'XL', '2XL', '3XL', '4XL']
 
 function badgeDropdownText(badge) {
   // remove the <strike> tags from our early bird reg
-  const badgePrice = badge.price.split("</strike> ").slice(-1)[0]
+  const badgePrice = badge.price.replace("</strike>", "</s>").split("</s>").slice(-1)[0].trimStart()
   if (badge.tierName) {
     if (badge.hasTax) {
       return `${badge.tierName} - ${badge.badgeName} ($${badgePrice} + tax)`
@@ -163,10 +163,11 @@ const OpenRegisterPage = () => {
             .max(80, 'Must be 80 characters or less')
             .required('Required'),
           badgeName: Yup.string()
-            .matches(/^[\w @./#&+\-()[\]]*$/, 'Only letters, numbers, spaces and special characters !@#$%^&*()[] are allowed.')
+            .matches(/^[\w !#$%&[\]*+\-./]*$/, 'Only letters, numbers, spaces and special characters !#$%&[]*+-./ are allowed.')
             .max(30, 'Must be 30 characters or less')
             .required('Required'),
           badgePronouns: Yup.string()
+            .matches(/^[\w !#$%&[\]*+\-./]*$/, 'Only letters, numbers, spaces and special characters !#$%&[]*+-./ are allowed.')
             .max(30, 'Must be 30 characters or less'),
           websiteName: Yup.string()
             .when('badgeType', {

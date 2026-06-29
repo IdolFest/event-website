@@ -63,7 +63,7 @@ export default function RegistrationTier({ badge, onClick }) {
   const { badgeName, price, tierName, description, perks, onSale } = badge
   const badgePriceInt = parseInt(price, 10)
 
-  let tierHeading = `${badgeName} - $${price}`
+  let tierHeading = `${badgeName} - $${price.replace('<strike>', '<s>').replace('</strike>', '</s>')}`
   if (!onSale && badgePriceInt > 0 && !isNaN(badgePriceInt)) {
     tierHeading = `${badgeName} <strike>$${price}</strike> Sold Out`
   }
