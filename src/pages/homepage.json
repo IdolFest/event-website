@@ -3,6 +3,19 @@
   "body": "Welcome to U.S. IdolFes, the rebirth of NW IdolFest! We hope you will join us for our return to sunny California!",
   "registerButtonEnabled": true,
   "feedbackButtonEnabled": false,
-  "buttons": [],
+  "buttons": [
+    {
+      "text": "Apply to Northern Lights!",
+      "href": "https://idolfes.us/events/northern-lights-music-festival"
+    },
+    {
+      "text": "Apply to Virtual Stardust!",
+      "href": "https://idolfes.us/events/virtual-stardust"
+    },
+    {
+      "text": "Apply to Community Stage!",
+      "href": "https://idolfes.us/events/community-stage"
+    }
+  ],
   "scheduleDays": 3
 }
