@@ -2,10 +2,12 @@
 template: guest
 name: SHIHORI
 title: SHIHORI
-youtube: https://www.youtube.com/channel/UCJ3GcsHqWz0JbXlbzMvPW7g
-slug: shihori
 descriptor: Welcome SHIHORI to U.S. IdolFes 2026!
+youtube: https://www.youtube.com/channel/UCJ3GcsHqWz0JbXlbzMvPW7g
+twitter: https://twitter.com/shihoriNY
 instagram: https://www.instagram.com/shihori94/
+facebook: https://facebook.com/ShihoriNakane
+slug: shihori
 spotify: https://open.spotify.com/artist/07vlETVQJk1RgSF2YCsrhr?si=kdX9zWa9T3Wp9TceB_Xs5g
 guestimg: /images/guests/shihoristar_2026.png
 NOTE: Make sure image of the guest is in the media folder, named
