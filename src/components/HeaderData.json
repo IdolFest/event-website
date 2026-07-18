@@ -17,6 +17,10 @@
           "label": "All Guests",
           "href": "/guests",
           "disabled": false
+        },
+        {
+          "href": "/guests/2026/shihori/",
+          "label": "SHIHORI"
         }
       ],
       "disabled": false
