@@ -11,8 +11,6 @@ You loved it, it's coming back! Welcome back to Virtual Stardust, our festival e
 
 - - -
 
-Applications for U.S. IdolFes 2026 Virtual Stardust are now open!
+Applications for U.S. IdolFes 2026 Virtual Stardust are now closed. Thank you for your interest!
 
-[Apply Here](https://forms.gle/TjqKANw6DdXmdquY9)
-
-Applications will remain open through July 17 at 11:59pm Pacific Time.
+Check back later for our 2026 Virtual Stardust lineup!
