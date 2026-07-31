@@ -11,8 +11,6 @@ Welcome to the Northern Lights Music Festival! Keeping true to our roots from Se
 
 - - -
 
-Applications for the 2026 Northern Lights Music Festival are now open!
+Applications for the 2026 Northern Lights Music Festival are now closed. Thank you for your interest!
 
-[Apply Here](https://forms.gle/MwQroAM6nR7zNUV88)
-
-Applications will remain open through July 17 at 11:59pm Pacific Time.
+Check back later for information on our lineup!
