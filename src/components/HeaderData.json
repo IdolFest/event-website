@@ -83,6 +83,10 @@
           "label": "Grand Prix Song Contest",
           "href": "/events/grandprix",
           "disabled": true
+        },
+        {
+          "label": "Panels",
+          "href": "/events/panels"
         }
       ],
       "external": false,
