@@ -3,19 +3,6 @@
   "body": "Welcome to U.S. IdolFes, the rebirth of NW IdolFest! We hope you will join us for our return to sunny California!\n\nJoin us October 30, 2026 through November 1, 2026 at the Sonesta Redondo Beach & Marina, located at:\n300 N Harbor Dr #200, Redondo Beach, CA 90277\n",
   "registerButtonEnabled": true,
   "feedbackButtonEnabled": false,
-  "buttons": [
-    {
-      "text": "Apply to Northern Lights!",
-      "href": "https://idolfes.us/events/northern-lights-music-festival"
-    },
-    {
-      "text": "Apply to Virtual Stardust!",
-      "href": "https://idolfes.us/events/virtual-stardust"
-    },
-    {
-      "text": "Apply to Community Stage!",
-      "href": "https://idolfes.us/events/community-stage"
-    }
-  ],
+  "buttons": [],
   "scheduleDays": 3
 }
