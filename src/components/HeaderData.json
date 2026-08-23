@@ -25,6 +25,10 @@
         {
           "href": "/guests/2026/moeage",
           "label": "Moe↗Age!"
+        },
+        {
+          "href": "/guests/2026/yumeiropicnic",
+          "label": "Yumeiro Picnic"
         }
       ],
       "disabled": false
