@@ -39,7 +39,7 @@ PRISMIA is the flagship 1st Generation of Takara Live, bringing together a brill
 
 ### Stella Fos
 
-![](/images/uploads/beni-doki_star_2026.png "Stella Fos")
+![](/images/uploads/stella-fos_star_2026.png "Stella Fos")
 
 Heya Helium Huffers! Debuted in 2021, Stella Fos is wishing star vsinger and variety streamer with inexhaustive energy to yap and sing for hours on end. They long to be a light in the dark for others with their humor and voice, singing to connect with their community around the world.
 
