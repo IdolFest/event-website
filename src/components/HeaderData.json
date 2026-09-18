@@ -29,6 +29,10 @@
         {
           "href": "/guests/2026/yumeiropicnic",
           "label": "Yumeiro Picnic"
+        },
+        {
+          "href": "/guests/2026/phoebe",
+          "label": "Phoebe"
         }
       ],
       "disabled": false
