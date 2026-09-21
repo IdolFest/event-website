@@ -19,20 +19,24 @@
           "disabled": false
         },
         {
-          "href": "/guests/2026/shihori/",
-          "label": "SHIHORI"
-        },
-        {
           "href": "/guests/2026/moeage",
           "label": "Moe↗Age!"
         },
         {
-          "href": "/guests/2026/yumeiropicnic",
-          "label": "Yumeiro Picnic"
-        },
-        {
           "href": "/guests/2026/phoebe",
           "label": "Phoebe"
+        },
+        {
+          "href": "/guests/2026/shihori/",
+          "label": "SHIHORI"
+        },
+        {
+          "href": "/guests/2026/victoriaroman",
+          "label": "Victoria Roman"
+        },
+        {
+          "href": "/guests/2026/yumeiropicnic",
+          "label": "Yumeiro Picnic"
         }
       ],
       "disabled": false
