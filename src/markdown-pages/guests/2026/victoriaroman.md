@@ -4,7 +4,7 @@ name: Victoria Roman
 title: Victoria Roman
 youtube: https://www.youtube.com/@vickyroman_idol
 slug: victoriaroman
-descriptor: Please Welcome Victoria Roman to U.S. IdolFes 2026!
+descriptor: Welcome Victoria Roman to U.S. IdolFes 2026!
 twitter: https://x.com/vickyroman_idol
 guestimg: /images/guests/victoriaromanstar.png
 NOTE: Make sure image of the guest is in the media folder, named
