@@ -48,6 +48,7 @@ HiJinx! is a group of monster idols that are here to bring the Halloween spirit 
 Presenting: Italia is Kawaii! a solo idol from Brownsville, Tx (RGV). With a heart full of dreams she’s here to dazzle with music and kawaii charm. So turn your light sticks pink, and let’s PLAY the GAME!
 
 - - -
+
 ### Roseychuu
 
 ![](/images/uploads/roseychuu_star.png "Roseychuu")
@@ -59,19 +60,23 @@ Roseychuu is a 2.5D idol with Romanian blood and a Chicago upbringing! She wants
 Get your penlight colors ready to pink and purple and welcome in your one and only vampire idol, Roseychuu!
 
 - - -
+
 ### shoyun
 
-![](/images/uploads/shoyukatsudon_star.png "shoyun")
+![](/images/uploads/shoyukatsudonstar.png "shoyun")
 
 Soy sauce enjoying idol, connecting with the world through song! A seasoned youtaite known for her versatile range, shoyun became a kaigai idol to find her own voice. She hopes to share a little flavor, warmth, and happiness in every performance 🤍🥢
 
 - - -
+
 ### Strawberry 🍓 Sunday
+
 ![](/images/uploads/strawberrysunday_star.png "Strawberry 🍓 Sunday")
 
 Strawberry 🍓 Sunday is a sister idol unit that aims to share their love of music and bring joy to those cheering them on. From singing to dancing, the members love performing a diverse range of genres to celebrate idol culture and get the crowd moving! Come join us on their journey to sweeten everyone’s day one stage at a time and let’s celebrate everyday like it’s Sunday Funday with Strawberry Sunday!
 
 - - -
+
 ### SuperMelody
 
 ![](/images/uploads/supermelody_star.png "SuperMelody")
