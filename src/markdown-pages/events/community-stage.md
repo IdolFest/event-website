@@ -98,6 +98,16 @@ Where dreams become melody, please welcome Rêvolie! As an idol duo, Bitty and C
 
 - - -
 
+### Rina Kiden
+
+![](/images/uploads/rinakiden_star.png "Rina Kiden")
+
+Get ready to get charged up!
+
+Rina Kiden is your electric powerhouse kaigai idol, dancing on your electric poles and surging through your power lines! With her voice, choreography, and determination, she’ll deliver a shock of energy to the stage and to your heart. ⚡
+
+- - -
+
 ### Shiny Sky
 
 ![](/images/uploads/shinysky_2026_star.png "Shiny Sky")
