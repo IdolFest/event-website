@@ -2,7 +2,7 @@
 template: guest
 name: SiIvaGunner
 title: SilvaGunner
-descriptor: Welcome SilvaGunner to U.S. Idolfes 2026!
+descriptor: "Welcome SilvaGunner to U.S. Idolfes 2026! "
 youtube: youtube.com/channel/UCYGz7FZImRL8oI68pD7NoKg
 twitter: twitter.com/GiIvaSunner
 homepage: " highquality.rip/"
