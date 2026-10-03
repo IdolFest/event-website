@@ -1,13 +1,13 @@
 ---
 template: guest
-name: SiIvaGunner
+name: SilvaGunner
 title: SiIvaGunner
 youtube: youtube.com/channel/UCYGz7FZImRL8oI68pD7NoKg
 twitter: twitter.com/GiIvaSunner
 bandcamp: ""
 bluesky: bsky.app/profile/highquality.rip
 slug: silvagunner
-descriptor: "Welcome SilvaGunner to U.S. Idolfes 2026! "
+descriptor: "Welcome SiIvaGunner to U.S. Idolfes 2026! "
 homepage: " highquality.rip/"
 instagram: instagram.com/highquality.rip
 tiktok: tiktok.com/@giivasunner
