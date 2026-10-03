@@ -2,7 +2,7 @@
   "regClosedHeading": "Thank you for attending U.S IdolFes 2025!",
   "registrationStatus": "open",
   "regClosedText": "Registration is closed because USIF 2025 is now over. Thank you for making our first convention in CA a huge success!\n",
-  "showBadgePickupHours": true,
+  "showBadgePickupHours": false,
   "allBadgeTiers": [
     {
       "badgeName": "Friday",
@@ -56,7 +56,7 @@
     {
       "badgeName": "Sponsor",
       "badgeKey": "badge-sponsor",
-      "onSale": true,
+      "onSale": false,
       "hasTax": false,
       "price": "150",
       "tierName": "Gold",
@@ -76,7 +76,7 @@
     {
       "badgeName": "Super Sponsor",
       "badgeKey": "badge-supersponsor",
-      "onSale": true,
+      "onSale": false,
       "hasTax": false,
       "price": "925",
       "tierName": "Prism",
