@@ -9,11 +9,11 @@ Welcome to U.S. IdolFes, or USIF! We are a group of passionate idol fans working
 
 USIF welcomes everyone; however, the event's management reserves the right to deny or revoke the attendance of any individual, at any time, for any reason. This action may be undertaken when an individual's presence or behavior causes significant interference with event operations or adversely affects the organization's relationship with its guests or with its venue. USIF also reserves the right to amend these rules at any time without prior or posted notice. If you have any questions, please [contact the event staff](/contact) for assistance.
 
-Anyone who accepts a USIF badge agrees to indemnify and hold harmless USIF and The IdolFest Foundation from any claim for personal injuries or other damages or equity arising out of any individual's activities at USIF, even if such injury or damage is caused by negligence by or on the part of USIF.
+Anyone who accepts a USIF badge agrees to indemnify and hold harmless USIF and The IdolFest Foundation from any claim for personal injuries or other damages or equity arising out of any individual's activities at U.S. IdolFes, even if such injury or damage is caused by negligence by or on the part of U.S. IdolFes.
 
 ## COVID-19
 
-Masking is not required at USIF 2025 but is highly encouraged due to the size of the venue and the intimate nature of our event. Similarly, we highly encourage that you have received the initial COVID-19 vaccination series and all applicable booster vaccines, but this is also not required. USIF staff will not be conducting vaccination checks.
+Masking is not required at U.S. IdolFes but is highly encouraged due to the size of the venue and the intimate nature of our event. Similarly, we highly encourage that you have received the initial COVID-19 vaccination series and all applicable booster vaccines, but this is also not required. USIF staff will not be conducting vaccination checks.
 
 On a case-by-case basis, our guests may request for meet and greets that attendees wear a mask. In this event, signage will be clearly posted and staff will alert all attendees without masks or wearing their masks improperly to ensure they are wearing a mask securely over their nose and mouth. 
 
@@ -141,7 +141,7 @@ USIF is committed to making our event accessible to all. Our approach to some ac
 
 Our host hotel, the Sonesta Redondo Beach, complies with ADA guidelines in most spaces. Their website has a full list of [accessible amenities](https://www.sonesta.com/sonesta-hotels-resorts/ca/redondo-beach/sonesta-redondo-beach-marina). (Click "Hotel Details," and then "Accessibility" under "Our Hotel.")
 
-Our event space for 2025 is on the first floor of the Sonesta Redondo Beach. As far as USIF staff is aware, all rooms can be accessed without steps.
+Our event space is on the first floor of the Sonesta Redondo Beach. As far as USIF staff is aware, all rooms can be accessed without steps.
 
 If you are unable to stand in line for a panel, please contact a member of our Safety team. They can assist you with either a chair to wait to the side of the line, or an early seat at the panel.
 
