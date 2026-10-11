@@ -96,7 +96,7 @@
         {
           "href": "/events/meteor-mayhem",
           "label": "Meteor Mayhem",
-          "disabled": true
+          "disabled": false
         },
         {
           "label": "Masquerade",
