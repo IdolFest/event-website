@@ -11,8 +11,4 @@ Interested in seeing what our panelists have to offer? [Register](https://idolfe
 
 - - -
 
-Applications for U.S. IdolFes 2026 Panels are now open! 
-
-[Apply Here](https://forms.gle/tKHJHJUAeaa3411Z9)
-
-Applications will remain open through August 31 at 11:59pm.
+Applications for U.S. IdolFes 2026 Panels have closed. Thank you for your interest!
