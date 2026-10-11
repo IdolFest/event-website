@@ -94,6 +94,11 @@
           "href": "/events/community-stage"
         },
         {
+          "href": "/events/meteor-mayhem",
+          "label": "Meteor Mayhem",
+          "disabled": true
+        },
+        {
           "label": "Masquerade",
           "href": "/events/masquerade",
           "disabled": true
