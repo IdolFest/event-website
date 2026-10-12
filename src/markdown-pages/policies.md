@@ -29,7 +29,7 @@ If you feel harassed or see someone else being harassed, you have the following 
 
 1. You are within your rights to ask the harasser to stop on your own if you are comfortable.
 2. Notify a staff member. If the staff member is involved in the harassment, please use one of the below methods or reach out to our convention chairs at chairs@idolfes.us.
-3. Call and/or text the USIF Harassment Hotline during the convention at (424) 231-8815. 
+3. Call and/or text the USIF Harassment Hotline during the convention at (310) 307-0748. 
 4. Email us at hr@idolfes.us.
 
 Once notified, USIF staff will take any action necessary to stop the behavior, up to and including badge revocation, expulsion from convention premises, and/or being banned from future IdolFest Foundation events. We will also take steps to help you feel safe again at your request, such as escorting you to a place you feel safe, contacting your friends or family for you, and/or contacting local law enforcement.
