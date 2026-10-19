@@ -23,4 +23,4 @@ Schedules:
 * [Saturday Schedule](https://idolfes.us/events/saturday)
 * [Sunday Schedule](https://idolfes.us/events/sunday)
 
-[Venue Map](https://idolfes.us/about/map/)
+Venue Map - to be published!
