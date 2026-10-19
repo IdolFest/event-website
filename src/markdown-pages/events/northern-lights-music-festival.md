@@ -13,15 +13,6 @@ Welcome to the Northern Lights Music Festival! Keeping true to our roots from Se
 
 **Introducing our 2026 Northern Lights Lineup!**
 
-### AIRI
-
-![](/images/uploads/airi_star.png "AIRI")
-
-Born in New York and sailing from Scotland, AIRI makes her international debut at USIF! 🌊✨
-This oceanic idol blends j/kpop influences, an aggressive rap flow, and her sweet siren voice to bring you an enchanting experience! Joining her from Scotland is celestial dragon bassist, Ryu! Ryu commands the stage with their bass guitar and fiery persona. 
-Together, this dynamic duo is an international pair you don’t want to miss! Come along for some fun covers, as well as original music! 
-
-- - -
 
 ### CYberEdGe
 
