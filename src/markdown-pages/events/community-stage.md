@@ -13,13 +13,6 @@ Welcome to the U.S. IdolFes Community Stage! The Community Stage allows performe
 
 **Introducing our 2026 Community Stage Performers!**
 
-### ABSOLUTE AiDOL
-
-![](/images/uploads/aidol_2026_star.png "ABSOLUTE AiDOL")
-
-ABSOLUTE AiDOL is an indie J-Pop idol originally from Michigan! Her persona is a half-angel-half-demon girl sent down to earth to spread the joy of idols to all humans. She aims to break the mold as a Black J-Pop bound by no genre. Combining J-Pop, Rock, and Rap elements into her original music and performances, she shows everyone that an idol can be "absolutely anything!" Turn your penlights to red, and witness her world!
-
-- - -
 
 ### DEM☆POP
 
