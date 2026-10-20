@@ -153,8 +153,37 @@ The Northern Lights Concert will use strobe lights. A warning sign will be poste
 
 USIF attendees should be aware that audio and/or video recordings are frequently made in convention areas and that their likenesses may appear in those recordings. Individual members agree to assign without compensation the use of their likeness(es) at USIF for the use of promotional material such as highlights and videos.
 
+
 Everyone must comply with the USIF anti-harassment policy when taking photos or videos of others. Be respectful and remember that cosplay is not consent.
 
+
+Attendees must adhere to venue policy regarding permission to use freestanding recording/photography equipment and/or external lighting.
+
+
+The use of any wearable or hidden photography/video equipment is strictly prohibited. That includes, but is not limited to, Ray-Ban Meta Smart Glasses or chest mounted action cameras.
+
+
+The use of drones at any point during the event is strictly prohibited.
+
+
+**Additional regulations apply to Main Stage and Community Stage:**
+
+
+Tripods and other freestanding recording/photography equipment may only be used in designated areas, may not be left unattended, and may not extend above a height of 6 feet (182 cm).
+
+
+Recording devices may not be held above a height of 6 feet (182 cm)
+
+
+Attendees are prohibited to stand on or otherwise use items to gain a higher vantage point in order to view, capture, or record performances. This includes both chairs supplied by the venue and personal items.
+
+
+The use of external lighting/flash/strobes, etc. during a performance is prohibited.
+
+USIF staff may ask you to adjust photography/filming equipment if it is disruptive to other attendees, even if it does not specifically violate any of the rules laid out here.
+
+
 USIF has staff photographers who may take audio/video recordings during times when attendees are not permitted to record. If you are taking photos for personal use, we request that you give staff photographers priority and move out of their shot if asked. Thank you!
+
 
 We appreciate everyone's cooperation in abiding by our event's policies. In doing so, you help us ensure that everyone can have a safe, fun, and exciting time doing what we all love: enjoying idols!
