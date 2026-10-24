@@ -66,13 +66,13 @@ Compensation policies for presenters are based on whether they are presenting a 
 
   * The applicant will be referred to as Lead Panelist, and all other panelists will be referred to as Co-panelists.
   * The Lead Panelist and one Co-panelist will receive full badge compensation.
-  * Up to five (5) Co-panelists may receive badges at the Chibi badge price, or 50% off the Silver badge price.
+  * Up to four (4) additional Co-panelists may receive badges at the Chibi badge price, or 50% off the Silver badge price.
   * If there are more than seven (7) panelists (Lead Panelist + 6 Co-panelists), all other Co-panelists must purchase a badge at its full price. Badges may be purchased at https://idolfes.us/register.
 * Performance
 
   * The applicant will be referred to as Lead Performer, and all other performers will be referred to as Co-performers. Other people who attend with the applying performer/group with the intent on assisting them through their performance and/or meet and greet will be referred to as Handlers.
   * The Lead Performer and up to four (4) Co-performers will receive full badge compensation.
-  * Up to five (5) Co-performers may receive badges at the Chibi badge price, or 50% off the Silver badge price.
+  * Up to five (5) additional Co-performers may receive badges at the Chibi badge price, or 50% off the Silver badge price.
   * If there are more than 10 performers (Lead Performer + 9 Co-performers), all other Co-performers must purchase a badge at its full price. Badges may be purchased at https://idolfes.us/register.
   * One (1) Handler will receive full badge compensation.
   * Up to two (2) Handlers may receive badges at the Chibi badge price, or 50% off the Silver badge price.
