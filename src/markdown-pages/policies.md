@@ -163,13 +163,10 @@ The use of drones at any point during the event is strictly prohibited.
 
 **Additional regulations apply to Main Stage and Community Stage:**
 
-Tripods and other freestanding recording/photography equipment may only be used in designated areas, may not be left unattended, and may not extend above a height of 6 feet (182 cm).
-
-Recording devices may not be held above a height of 6 feet (182 cm)
-
-Attendees are prohibited to stand on or otherwise use items to gain a higher vantage point in order to view, capture, or record performances. This includes both chairs supplied by the venue and personal items.
-
-The use of external lighting/flash/strobes, etc. during a performance is prohibited.
+* Tripods and other freestanding recording/photography equipment may only be used in designated areas, may not be left unattended, and may not extend above a height of 6 feet (182 cm).
+* Recording devices may not be held above a height of 6 feet (182 cm)
+* Attendees are prohibited to stand on or otherwise use items to gain a higher vantage point in order to view, capture, or record performances. This includes both chairs supplied by the venue and personal items.
+* The use of external lighting/flash/strobes, etc. during a performance is prohibited.
 
 USIF staff may ask you to adjust photography/filming equipment if it is disruptive to other attendees, even if it does not specifically violate any of the rules laid out here.
 
