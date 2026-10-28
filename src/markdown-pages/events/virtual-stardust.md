@@ -29,6 +29,16 @@ Dreamy Etude is your local neighborhood magical girl, who is working her way to 
 
 - - -
 
+### melo*chu
+
+![](/images/uploads/dreamy-etude_star_2026.png "melo*chu")
+
+The sweet sound of practice fills the patisserie ₊˚  
+
+melo*chu is an independent VTuber idol group featuring five girls who were gathered by melopi to sweeten the memories of patrons.
+
+- - -
+
 ### PRISMIA
 
 ![](/images/uploads/prismia_star_2026.png "Prismia")
