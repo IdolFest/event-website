@@ -31,7 +31,7 @@ Dreamy Etude is your local neighborhood magical girl, who is working her way to 
 
 ### melo*chu
 
-![](/images/uploads/dreamy-etude_star_2026.png "melo*chu")
+![](/images/uploads/melochu_star.png "melo*chu")
 
 The sweet sound of practice fills the patisserie ₊˚  
 
