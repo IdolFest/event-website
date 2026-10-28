@@ -13,7 +13,6 @@ Welcome to the U.S. IdolFes Community Stage! The Community Stage allows performe
 
 **Introducing our 2026 Community Stage Performers!**
 
-
 ### DEM☆POP
 
 ![](/images/uploads/dempop_2026_star.png "DEM☆POP")
@@ -56,16 +55,7 @@ Irodori Idols are here to bring the magic of Love Live to life! At Idolfes, they
 
 - - -
 
-### Jenni Bon
-
-![](/images/uploads/jennibon_2026_star.png "Jenni Bon")
-
-Jenni Bon is the idol that will make your heart smile! Made up of sugar (twice!) and everything nice, she'll make you fall in love with her sweet magic!
-Known for her energetic performances and bright smile, Jenni Bon is a Chicago area independent musician inspired by Japanese idol culture, Anisong, and Indie pop.While her one true love is performing, she's also passionate about creating welcoming spaces where idols and fans alike can celebrate idol culture together!
-
-- - -
-
-### Kirameki Palettes!
+### Kirameki Palettes
 
 ![](/images/uploads/kp_star_2026.png "Kirameki Palettes!")
 
@@ -117,6 +107,14 @@ Following her guiding star she is using her voice and song to make the world mor
 Egao + Energy = TRADEMARK! 
 
 Trademark is a Northern California Bay Area kaigai idol duo consisting of members Tiffany and Marjorie. Since 2014, they bring their high-energy performances and idol magic everywhere they go. With their big smiles and bright energy, Trademark is ready to light up the stage! 
+
+- - -
+
+### T-SKY
+
+![](/images/uploads/tsky_star.png "T-SKY")
+
+T~SKY is a kaigai idol group based in the Bay Area, focused on sharing lively J-pop cover performances that showcase their diversity and tight friendship. Started in 2021 as a Love Live-esque school idol club, their continuous growth shows with every video and performance. With dedication and effort at full throttle, let's grow and shine together!
 
 - - -
 
