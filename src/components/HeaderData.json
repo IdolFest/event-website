@@ -169,12 +169,13 @@
         {
           "label": "Shop",
           "href": "https://idolfe.st/shop",
-          "external": true
+          "external": true,
+          "disabled": true
         },
         {
           "label": "Map",
           "href": "/about/map",
-          "disabled": true
+          "disabled": false
         }
       ]
     }
