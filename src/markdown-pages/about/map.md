@@ -5,4 +5,4 @@ slug: map
 ---
 Need to see a map of the venue? Here it is!
 
-![venue map](/images/uploads/venue-map-2025.png "venue map")
+![venue map](/images/uploads/venue_map_2026.png "venue map")
