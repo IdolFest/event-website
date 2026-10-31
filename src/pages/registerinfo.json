@@ -7,7 +7,7 @@
     {
       "badgeName": "Friday",
       "badgeKey": "badge-friday",
-      "onSale": true,
+      "onSale": false,
       "hasTax": false,
       "price": "45",
       "tierName": "Bronze",
