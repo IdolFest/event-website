@@ -19,7 +19,7 @@
     {
       "badgeName": "Saturday",
       "badgeKey": "badge-saturday",
-      "onSale": true,
+      "onSale": false,
       "hasTax": false,
       "price": "50",
       "tierName": "Bronze",
