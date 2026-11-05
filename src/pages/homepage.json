@@ -2,7 +2,7 @@
   "title": "Welcome to U.S. IdolFes!",
   "body": "Welcome to U.S. IdolFes, the rebirth of NW IdolFest! We hope you will join us for our return to sunny California!\n\nThank you for attending U.S. IdolFes 2026! See you in 2027!\n",
   "registerButtonEnabled": false,
-  "feedbackButtonEnabled": false,
+  "feedbackButtonEnabled": true,
   "buttons": [],
   "scheduleDays": 3
 }
